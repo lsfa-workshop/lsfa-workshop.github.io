@@ -9,6 +9,42 @@ LSFA started in 2006 in Natal (LSFA06) and its second and third editions were he
 
 **The Sixteen Logical and Semantic Framework with applications, LSFA 2021, will be proposed as satellite of [FSCD 2021](https://fscd2021.dc.uba.ar/) in Buenos Aires.**
 
+## List of PC chairs and Invited Speakers 
+* 2006 PC chairs: Christiano Braga, Edward Hermann Haeusler and Mauricio Ayala-Rincón
+  2006 ISs: Narciso Marti Oliet, Joe Wells and Uwe Wolter
+
+* 2007 PC chairs: Edward Hermann Haeusler and Mauricio Ayala-Rincón
+  2007 ISs: Gilles Dowek, Fairouz Kamareddine and Simona Ronchi Della Rocca
+
+* 2008 PC chairs: Mario Benevides and Elaine Pimentel
+  2008 ISs: Cesar Muñoz, Christian Urban and Marcelo Finger
+  
+* 2009 PC chairs: Mauricio Ayala-Rincón and Fairouz Kamareddine
+  2009 ISs: Delia Kesner, Jonathan Seldin and Luis Fariñas del Cerro
+2010 PC chairs: Edward Hermann Haeusler and Luis Fariñas del Cerro
+2010 ISs: Ruy de Queiroz, Natarajan Shankar and Freek Wiedijk
+2011 PC chairs: Elaine Pimentel and Simona Ronchi Della Rocca
+2011 ISs: Arnon Avron, Pete Manolios and Luiz Carlos Pereira
+2012 PC chairs: Delia Kesner and Petrucio Viana
+2012 ISs Torben Braüner, Maribel Fernández, Edward Hermann Haeusler and Alexandre Miquel
+2013 PC chairs: Maribel Fernández and Marcelo Finger
+ISs: Carlos Areces, Marcello D'Agostino and Jose Meseger
+2014 PC chairs: Ian Mackie and Mauricio Ayala-Rincón
+ISs: Ugo Montanari, Andrew Pitts and René Thiemann
+2015 PC chairs: Mario Benevides and René Thiemann
+ISs: Ofer Arieli, Valentin Goranko, Dale Miller and Valeria de Paiva
+2016 PC chairs: Vivek Nigam and Mario Florido
+ISs: Gilles Barthe, Kaustuv Chaudhuri and João Marques Silva
+2017 PC chairs: Sandra Alves and Renata Wassermann
+ISs: Beniamino Accattoli, Hélène Kirchner, Renate Schmidt
+2018 PC chairs: Carlos Olarte and Beniamino Accattoli
+ISs: Amy Felty, Andreas Herzig, Yiannis Moschovakis, Alessandra Palmigiano
+2019 PC chairs: Amy Felty and João Marcos
+ISs: Pascal Fontaine, Achim Jung, Vivek Nigam, Elaine Pimentel, Giselle Reis
+2020 PC chairs: Cláudia Nalon and Giselle Reis
+ISs: Delia Kesner, Eduardo Bonelli, Mauricio Ayala-Rincón
+2021 PC chairs: Mauricio Ayala-Rincón and Eduardo Bonelli 
+
 # Bylaws 
 
 
