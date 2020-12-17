@@ -28,20 +28,20 @@ LSFA started in 2006 in Natal (LSFA06) and its second and third editions were he
 * 2011 PC chairs: Elaine Pimentel and Simona Ronchi Della Rocca  
   2011 ISs: Arnon Avron, Pete Manolios and Luiz Carlos Pereira
   
-* 2012 PC chairs: Delia Kesner and Petrucio Viana
+* 2012 PC chairs: Delia Kesner and Petrucio Viana  
   2012 ISs Torben Braüner, Maribel Fernández, Edward Hermann Haeusler and Alexandre Miquel
 
 * 2013 PC chairs: Maribel Fernández and Marcelo Finger  
   2013 ISs: Carlos Areces, Marcello D'Agostino and Jose Meseger
 
 * 2014 PC chairs: Ian Mackie and Mauricio Ayala-Rincón  
-  2015 ISs: Ugo Montanari, Andrew Pitts and René Thiemann
+  2014 ISs: Ugo Montanari, Andrew Pitts and René Thiemann
   
 * 2015 PC chairs: Mario Benevides and René Thiemann  
   2015 ISs: Ofer Arieli, Valentin Goranko, Dale Miller and Valeria de Paiva
 
 * 2016 PC chairs: Vivek Nigam and Mario Florido  
-  2015 ISs: Gilles Barthe, Kaustuv Chaudhuri and João Marques Silva
+  2016 ISs: Gilles Barthe, Kaustuv Chaudhuri and João Marques Silva
   
 * 2017 PC chairs: Sandra Alves and Renata Wassermann  
   2017 ISs: Beniamino Accattoli, Hélène Kirchner, Renate Schmidt
