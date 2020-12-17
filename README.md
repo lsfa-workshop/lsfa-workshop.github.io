@@ -57,6 +57,23 @@ LSFA started in 2006 in Natal (LSFA06) and its second and third editions were he
 
 * 2021 PC chairs: Mauricio Ayala-Rincón and Eduardo Bonelli 
 
+## Publications 
+### Special Issues: 
+
+    Special Issue LSFA 2006, J. of Algorithms vol 62, 2007 (toc at JA site)
+    Special Issue LSFA 2007, The Logical J. IGPL vol 17, 2009 (toc at J.IGPL site)
+    Special Issue LSFA 2008+9, Theoretical Computer Science vol 412, 2011 (toc at TCS site)
+    Special Issue LSFA 2010+11, The Logical J. IGPL vol 22(5), 2014 (toc at J.IGPL site)
+    Special Issue LSFA 2012+13, Theoretical Computer Science vol 606, 2015 (toc at TCS site)
+    Special Issue LSFA 2014, Theoretical Computer Science vol 685, 2017 (toc at TCS site)
+    Special Issue LSFA 2015+2016, Theoretical Computer Science vol 781, 2019 (toc at TCS site)
+    Special Issue LSFA 2017+2018, Mathematical Structures in Computer Science, Guest Eds. Sandra Alves and Renata Wassermann. 
+
+
+
+### Proceedings: 
+
+
 # Bylaws 
 
 
