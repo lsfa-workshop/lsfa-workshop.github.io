@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+# Welcome to LSFA Webpage!
+
+# About LSFA
+LSFA is an International Workshop on Logical and Semantic Frameworks with Applications. Logical and semantic frameworks are formal languages used to represent logics, languages and systems. These frameworks provide mathematical foundations for formal specification of systems and programming languages, supporting tool development and reasoning.
+
+The objective of this series is to put together theoreticians and practitioners to promote new techniques and results, from the theoretical side, and feedback on the implementation and use of such techniques and results, from the practical side. 
 
 You can use 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
