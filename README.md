@@ -85,23 +85,23 @@ LSFA started in 2006 in Natal (LSFA06) and its second and third editions were he
 
 * Proc. LSFA 2010, ENTCS vol 269, 2011 ([Contents](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/269/suppl/C), [doi](https://www.sciencedirect.com/science/article/pii/S1571066111000582?via%3Dihub))
 
-* Proc. LSFA 2011, EPTCS vol 81, 2012 (Contents, doi)
+* Proc. LSFA 2011, EPTCS vol 81, 2012 ([Contents](https://arxiv.org/html/1203.5423), [doi](https://arxiv.org/abs/1203.5423))
 
-* Proc. LSFA 2012, EPTCS vol 113, 2013 (Contents, doi)
+* Proc. LSFA 2012, EPTCS vol 113, 2013 ([Contents](https://arxiv.org/html/1303.7136v1), [doi](https://arxiv.org/abs/1303.7136))
     
-* Proc. LSFA 2013, ENTCS vol 305, 2014 (Contents, doi)
+* Proc. LSFA 2013, ENTCS vol 305, 2014 ([Contents](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/305/suppl/C), [doi](https://www.sciencedirect.com/science/article/pii/S1571066114000474?via%3Dihub))
 
-* Proc. LSFA 2014, ENTCS vol 312, 2015 (Contents, doi)
+* Proc. LSFA 2014, ENTCS vol 312, 2015 ([Contents](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/312/suppl/C), [doi](https://www.sciencedirect.com/science/article/pii/S1571066115000055?via%3Dihub))
 
-* Proc. LSFA 2015, ENTCS vol 323, 2016 (Contents , doi)
+* Proc. LSFA 2015, ENTCS vol 323, 2016 ([Contents](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/323/suppl/C) , [doi](https://www.sciencedirect.com/science/article/pii/S1571066116300251?via%3Dihub))
   
-* Proc. LSFA 2016, ENTCS vol 332, 2017 (Contents, doi)
+* Proc. LSFA 2016, ENTCS vol 332, 2017 ([Contents](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/332), [doi](https://www.sciencedirect.com/science/article/pii/S1571066117300099?via%3Dihub))
 
-* Proc. LSFA 2017, ENTCS vol 338, 2018. (Contents, doi)
+* Proc. LSFA 2017, ENTCS vol 338, 2018. ([Contents](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/338/suppl/C), [doi](https://www.sciencedirect.com/science/article/pii/S1571066118300677?via%3Dihub))
 
-* Proc. LSFA 2018, ENTCS vol 344, 2019. (Contents, doi)
+* Proc. LSFA 2018, ENTCS vol 344, 2019. ([Contents](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/344/suppl/C), [doi](https://www.sciencedirect.com/science/article/pii/S1571066119300180?via%3Dihub))
 
-* Proc. LSFA 2019, ENTCS vol 348, 2020. (Contents, doi)
+* Proc. LSFA 2019, ENTCS vol 348, 2020. ([Contents](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/348/suppl/C), [doi](https://www.sciencedirect.com/science/article/pii/S1571066120300013?via%3Dihub))
 
 * Proc. LSFA 2020, in progress. Eds. Cláudia Nalon and Giselle Reis. 
 
