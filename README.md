@@ -59,23 +59,51 @@ LSFA started in 2006 in Natal (LSFA06) and its second and third editions were he
 
 ## Publications 
 ### Special Issues: 
-* Special Issue LSFA 2006, *J. of Algorithms* vol 62, 2007 (toc at JA site)
+* Special Issue LSFA 2006, *J. of Algorithms* vol 62, 2007 ([toc at JA site](https://www.sciencedirect.com/journal/journal-of-algorithms/vol/62/issue/3))
 
-* Special Issue LSFA 2007, *The Logical J. IGPL vol 17,* 2009 (toc at J.IGPL site)
+* Special Issue LSFA 2007, *The Logical J. IGPL vol 17,* 2009 ([toc at J.IGPL site](https://academic.oup.com/jigpal/issue/17/5))
 
-* Special Issue LSFA 2008+9, *Theoretical Computer Science vol 412,* 2011 (toc at TCS site)
+* Special Issue LSFA 2008+9, *Theoretical Computer Science vol 412,* 2011 ([toc at TCS site](https://www.sciencedirect.com/journal/theoretical-computer-science/vol/412/issue/37))
     
-* Special Issue LSFA 2010+11, *The Logical J. IGPL vol 22(5),* 2014 (toc at J.IGPL site)
+* Special Issue LSFA 2010+11, *The Logical J. IGPL vol 22(5),* 2014 ([toc at J.IGPL site](https://academic.oup.com/jigpal/issue/22/5))
 
-* Special Issue LSFA 2012+13, *Theoretical Computer Science* vol 606, 2015 (toc at TCS site)
+* Special Issue LSFA 2012+13, *Theoretical Computer Science* vol 606, 2015 ([toc at TCS site](https://www.sciencedirect.com/journal/theoretical-computer-science/vol/606))
 
-* Special Issue LSFA 2014, *Theoretical Computer Science* vol 685, 2017 (toc at TCS site)
+* Special Issue LSFA 2014, *Theoretical Computer Science* vol 685, 2017 ([toc at TCS site](https://www.sciencedirect.com/journal/theoretical-computer-science/vol/685))
 
-* Special Issue LSFA 2015+2016, *Theoretical Computer Science* vol 781, 2019 (toc at TCS site)
+* Special Issue LSFA 2015+2016, *Theoretical Computer Science* vol 781, 2019 ([toc at TCS site](https://www.sciencedirect.com/journal/theoretical-computer-science/vol/781/suppl/C))
     
 * Special Issue LSFA 2017+2018, *Mathematical Structures in Computer Science*, Guest Eds. Sandra Alves and Renata Wassermann. 
 
 ### Proceedings: 
+
+* Proc. LSFA 2007, ENTCS vol 205, 2008 ([Contents](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/205/suppl/C), [doi](https://www.sciencedirect.com/science/article/pii/S1571066108001679?via%3Dihub))
+
+* Proc. LSFA 2008, ENTCS vol 247, 2009 ([Contents](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/247/suppl/C), [doi](https://www.sciencedirect.com/science/article/pii/S1571066109002679?via%3Dihub))
+
+* Proc. LSFA 2009, ENTCS vol 256, 2009 ([Contents](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/256/suppl/C), [doi](https://www.sciencedirect.com/science/article/pii/S1571066109004514?via%3Dihub))
+
+* Proc. LSFA 2010, ENTCS vol 269, 2011 ([Contents](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/269/suppl/C), [doi](https://www.sciencedirect.com/science/article/pii/S1571066111000582?via%3Dihub))
+
+* Proc. LSFA 2011, EPTCS vol 81, 2012 (Contents, doi)
+
+* Proc. LSFA 2012, EPTCS vol 113, 2013 (Contents, doi)
+    
+* Proc. LSFA 2013, ENTCS vol 305, 2014 (Contents, doi)
+
+* Proc. LSFA 2014, ENTCS vol 312, 2015 (Contents, doi)
+
+* Proc. LSFA 2015, ENTCS vol 323, 2016 (Contents , doi)
+  
+* Proc. LSFA 2016, ENTCS vol 332, 2017 (Contents, doi)
+
+* Proc. LSFA 2017, ENTCS vol 338, 2018. (Contents, doi)
+
+* Proc. LSFA 2018, ENTCS vol 344, 2019. (Contents, doi)
+
+* Proc. LSFA 2019, ENTCS vol 348, 2020. (Contents, doi)
+
+* Proc. LSFA 2020, in progress. Eds. Cláudia Nalon and Giselle Reis. 
 
 
 # Bylaws 
