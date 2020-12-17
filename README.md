@@ -10,7 +10,7 @@ LSFA started in 2006 in Natal (LSFA06) and its second and third editions were he
 **The Sixteen Logical and Semantic Framework with applications, LSFA 2021, will be proposed as satellite of [FSCD 2021](https://fscd2021.dc.uba.ar/) in Buenos Aires.**
 
 ## List of PC chairs and Invited Speakers 
-* 2006 PC chairs: Christiano Braga, Edward Hermann Haeusler and Mauricio Ayala-Rincón
+* 2006 PC chairs: Christiano Braga, Edward Hermann Haeusler and Mauricio Ayala-Rincón  
   2006 ISs: Narciso Marti Oliet, Joe Wells and Uwe Wolter
 
 * 2007 PC chairs: Edward Hermann Haeusler and Mauricio Ayala-Rincón
