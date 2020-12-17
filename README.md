@@ -112,19 +112,19 @@ LSFA started in 2006 in Natal (LSFA06) and its second and third editions were he
 2.  There will be a general assembly (GA) to be held during each LSFA meeting.
 3.  There will be an steering committee (SC), whose composition and function are specified in the next section.
 4.  There will be a program committee (PC), which is solely responsible for the scientific contents of the program for each LSFA.
-    There will be a meeting committee (MC) whose chairman(s) is(are) responsible for the local arrangements of the meeting and solely financially responsible of the conference it is organizing.
-    Nomination for the LSFA local organization and site should be submitted to SC chair(s) four weeks before the conference.
-    The
-        Program Committee Chairperson,
-        Meeting Chairperson,
-        site,
-        tentative date,
+5.  There will be a meeting committee (MC) whose chairman(s) is(are) responsible for the local arrangements of the meeting and solely financially responsible of the conference it is organizing.
+6.  Nomination for the LSFA local organization and site should be submitted to SC chair(s) four weeks before the conference.
+7.  The
+      * Program Committee Chairperson,
+      * Meeting Chairperson,
+      * site,
+      * tentative date,
     of the LSFA to be held in the next year, will all be nominated by the SC and approved (or disapproved) by a vote at the GA.
-    Nomination of new SC members (with the consent of the nominees) should be submitted to SC chair four weeks before the conference.
-    The GA will take up any other agenda suggested by the attendees. It will be ruled by Robert's Rules of Order.
-    The PC Chair(s) should not submit any paper.
-    The composition of the PC is the responsibility of the PC chair(s).
-    Any modification of the bylaws should be proposed to the SC chair(s) four weeks before the conference and be ratified at the GA.
+8.  Nomination of new SC members (with the consent of the nominees) should be submitted to SC chair four weeks before the conference.
+9.  The GA will take up any other agenda suggested by the attendees. It will be ruled by Robert's Rules of Order.
+10. The PC Chair(s) should not submit any paper.
+11. The composition of the PC is the responsibility of the PC chair(s).
+12. Any modification of the bylaws should be proposed to the SC chair(s) four weeks before the conference and be ratified at the GA.
 
 
 
