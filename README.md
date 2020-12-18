@@ -129,39 +129,39 @@ LSFA started in 2006 in Natal (LSFA06) and its second and third editions were he
 
 
 # Steering Comitee
-The objective of this series is to put together theoreticians and practitioners to promote new techniques and results, from the theoretical side, and feedback on the implementation and use of such techniques and results, from the practical side. 
+## Composition:
 
-You can use 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1.  **Current SC members**
+    [Sandra Alves Porto](https://www.dcc.fc.up.pt/~sandra/Home/Home.html) (Universidade de Porto), 2017-
+    [Carlos Olarte Natal](https://sites.google.com/site/carlosolarte) (UFRN), 2018- (chair)
+    [Cláudia Nalon](https://cic.unb.br/~nalon/) Brasília (UnB), 2018-
+    [Maribel Fernández](https://nms.kcl.ac.uk/maribel.fernandez/) London (King's College London), 2018-
+    [Amy Felty](https://www.site.uottawa.ca/~afelty/) Ottawa (Université d'Ottawa) 2020-
+    [Giselle Reis](https://gisellereis.com/) Qatar (Carnegie Mellon University in Qatar) 2020-
+    **Former SC members**
+    [João Marcos](https://www.dimap.ufrn.br/~jmarcos/) Natal (UFRN), 2017-2020
+    [Renata Wassermann](https://www.ime.usp.br/~renata/) São Paulo (USP), 2017-2020
+    [Delia Kesner](https://www.irif.fr/~kesner/) Paris (U.Paris Diderot), 2015-18
+    [Bruno Lopes Vieira](http://www2.ic.uff.br/~bruno/) Niteroi (UFF), 2015-18 (chair)
+    [Vivek Nigam](http://nigam.info/) João Pessoa (UFPB), 2015-18
+    [Edward Hermann Haeusler](http://www-di.inf.puc-rio.br/~hermann/) Rio de Janeiro (PUC-Rio), 2007-17 (co-chair)
+    [Mauricio Ayala-Rincón](http://ayala.mat.unb.br/) Brasília (UnB), 2007-17 (co-chair)
+    [Elaine Gouvêa Pimentel](https://sites.google.com/site/elainepimentel) Natal (UFRN), 2007-17
+    [Mario R. Folhadela Benevides](https://mariorfb.github.io/) Rio de Janeiro (UFRJ), 2007-17
+    [Fairouz Dib Kamareddine](http://www.macs.hw.ac.uk/~fairouz/) Edinburgh (Heriot-Watt) 2007-15
+    [Ana Teresa de Castro Martins](http://www.lia.ufc.br/~ana/) Fortaleza (UFC) 2007-14
+    
+2.  The Steering Committee selects its own chair(s).
+3.  Each Steering Committee member serves until the third subsequent conference. In each conference, at most one third of the members of the SC can be renewed. In order to keep this balance, exceptionally and with the approval of the General Assembly, it is possible to extend for one year the term of some of the members of the SC.
+4.  The General Assembly of each conference votes by secret ballot for new Steering Committee members to replace the outgoing members. The maximum number of candidate indications allowed for each attendee of the General Assembly equals the number of open positions in that election. The total indications per candidate are computed and the most voted, up to the number of open positions, will be considered elected.
 
-### Markdown
+## Function:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lsfa-workshop/lsfa-workshop.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check outour [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1.  Provide support to the Program Committee and Meeting Committee.
+2.  Propose Program Committee chair, site and tentative date of meeting to be held in next two years.
+3.  Advertising and other issues concerning publicity of the conference.
+4.  Act as liaison with other conferences and workshops.
+5.  Call and organize the General Assembly.
+6.  Organize the election of new Steering Committee members.
+7.  Explore technical/organizational supports for non-local resources.
+8.  Maintain an official mailing list and records of the previous meetings.
