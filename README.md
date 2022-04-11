@@ -57,6 +57,10 @@ LSFA started in 2006 in Natal (LSFA06) and its second and third editions were he
   2020 ISs: Delia Kesner, Eduardo Bonelli, Mauricio Ayala-Rincón
 
 * 2021 PC chairs: Mauricio Ayala-Rincón and Eduardo Bonelli 
+  2021 ISs: Alejandro Díaz-Caro, Alexandra Silva, Giulio Guerrieri
+  
+* 2022 PC chairs: Daniele Nantes Sobrinho and Pascal Fontaine
+  2022 ISs: TBD 
 
 ## Publications 
 ### Special Issues: 
@@ -74,7 +78,9 @@ LSFA started in 2006 in Natal (LSFA06) and its second and third editions were he
 
 * Special Issue LSFA 2015+2016, *Theoretical Computer Science* vol 781, 2019 ([toc at TCS site](https://www.sciencedirect.com/journal/theoretical-computer-science/vol/781/suppl/C))
     
-* Special Issue LSFA 2017+2018, *Mathematical Structures in Computer Science*, Guest Eds. Sandra Alves and Renata Wassermann. 
+* Special Issue LSFA 2017+2018, *Mathematical Structures in Computer Science* vol 31(3), 2021 ([toc at MSCS site](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/issue/9ACF45871D62D25C52CC8BB543C9EFDE)
+
+* Special Issue LSFA 2019+2020, Mathematical Strucutres in Computer Science, Guest Eds. Amy Felty and Giselle Reis. 
 
 ### Proceedings: 
 
@@ -104,7 +110,9 @@ LSFA started in 2006 in Natal (LSFA06) and its second and third editions were he
 
 * Proc. LSFA 2019, ENTCS vol 348, 2020. ([Contents](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/348/suppl/C), [doi](https://www.sciencedirect.com/science/article/pii/S1571066120300013?via%3Dihub))
 
-* Proc. LSFA 2020, in progress. Eds. Cláudia Nalon and Giselle Reis. 
+* Proc. LSFA 2020, ENTCS vol 351, 2020. ([Contents](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/351/suppl/C), [doi](https://doi.org/10.1016/j.entcs.2020.08.001))
+
+* Proc. LSFA 2021, EPTCS vol 357, 2022. ([Contents](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?LSFA2021, [doi](https://doi.org/10.4204/EPTCS.357))
 
 
 # LSFA Bylaws 
@@ -133,15 +141,17 @@ LSFA started in 2006 in Natal (LSFA06) and its second and third editions were he
 ## Composition:
 
 1.  **Current SC members**  
-    [Sandra Alves Porto](https://www.dcc.fc.up.pt/~sandra/Home/Home.html) (Universidade de Porto), 2017-  
     [Carlos Olarte Natal](https://sites.google.com/site/carlosolarte) (UFRN), 2018- (chair)  
     [Cláudia Nalon](https://cic.unb.br/~nalon/) Brasília (UnB), 2018-  
-    [Maribel Fernández](https://nms.kcl.ac.uk/maribel.fernandez/) London (King's College London), 2018-  
     [Amy Felty](https://www.site.uottawa.ca/~afelty/) Ottawa (Université d'Ottawa) 2020-  
     [Giselle Reis](https://gisellereis.com/) Qatar (Carnegie Mellon University in Qatar) 2020-  
+    [Daniele Nantes Sobrinho](https://www.mat.unb.br/~dnantes) Brasília (UnB), 2021-
+    [Eduardo Bonelli](https://ebonelli.github.io) Hoboken NJ (Stevens University), 2021-
     **Former SC members**  
-    [João Marcos](https://www.dimap.ufrn.br/~jmarcos/) Natal (UFRN), 2017-2020  
-    [Renata Wassermann](https://www.ime.usp.br/~renata/) São Paulo (USP), 2017-2020  
+    [Sandra Alves Porto](https://www.dcc.fc.up.pt/~sandra/Home/Home.html) (Universidade de Porto), 2017-21  
+    [Maribel Fernández](https://nms.kcl.ac.uk/maribel.fernandez/) London (King's College London), 2018-21  
+    [João Marcos](https://www.dimap.ufrn.br/~jmarcos/) Natal (UFRN), 2017-20  
+    [Renata Wassermann](https://www.ime.usp.br/~renata/) São Paulo (USP), 2017-20  
     [Delia Kesner](https://www.irif.fr/~kesner/) Paris (U.Paris Diderot), 2015-18  
     [Bruno Lopes Vieira](http://www2.ic.uff.br/~bruno/) Niteroi (UFF), 2015-18 (chair)  
     [Vivek Nigam](http://nigam.info/) João Pessoa (UFPB), 2015-18  
