@@ -160,7 +160,7 @@ LSFA started in 2006 in Natal (LSFA06) and its second and third editions were he
     [Elaine Gouvêa Pimentel](https://sites.google.com/site/elainepimentel) Natal (UFRN), 2007-17  
     [Mario R. Folhadela Benevides](https://mariorfb.github.io/) Rio de Janeiro (UFRJ), 2007-17  
     [Fairouz Dib Kamareddine](http://www.macs.hw.ac.uk/~fairouz/) Edinburgh (Heriot-Watt) 2007-15  
-    [Ana Teresa de Castro Martins](http://www.lia.ufc.br/~ana/) Fortaleza (UFC) 2007-14  
+    [Ana Teresa de Castro Martins](https://cc.ufc.br/curso/corpo-docente/ana/) Fortaleza (UFC) 2007-14  
     
 2.  The Steering Committee selects its own chair(s).  
 3.  Each Steering Committee member serves until the third subsequent conference. In each conference, at most one third of the members of the SC can be renewed. In order to keep this balance, exceptionally and with the approval of the General Assembly, it is possible to extend for one year the term of some of the members of the SC.  
