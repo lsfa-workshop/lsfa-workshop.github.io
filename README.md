@@ -55,11 +55,11 @@ LSFA started in 2006 in Natal (LSFA06) and its second and third editions were he
 * 2020 PC chairs: Cláudia Nalon and Giselle Reis  
   2020 ISs: Delia Kesner, Eduardo Bonelli, Mauricio Ayala-Rincón
 
-* 2021 PC chairs: Mauricio Ayala-Rincón and Eduardo Bonelli  
+* 2021 PC chairs: Mauricio Ayala-Rincón and Eduardo Bonelli 
   2021 ISs: Alejandro Díaz-Caro, Alexandra Silva, Giulio Guerrieri
   
-* 2022 PC chairs: Daniele Nantes Sobrinho and Pascal Fontaine  
-  2022 ISs: TBD 
+* 2022 PC chairs: Daniele Nantes Sobrinho and Pascal Fontaine
+ 2022 ISs: TBD 
 
 ## Publications 
 ### Special Issues: 
@@ -144,7 +144,7 @@ LSFA started in 2006 in Natal (LSFA06) and its second and third editions were he
     [Cláudia Nalon](https://cic.unb.br/~nalon/) Brasília (UnB), 2018-  
     [Amy Felty](https://www.site.uottawa.ca/~afelty/) Ottawa (Université d'Ottawa) 2020-  
     [Giselle Reis](https://gisellereis.com/) Qatar (Carnegie Mellon University in Qatar) 2020-  
-    [Daniele Nantes Sobrinho](https://www.mat.unb.br/~dnantes) Brasília (UnB), 2021-  
+    [Daniele Nantes Sobrinho](https://www.mat.unb.br/~dnantes) Brasília (UnB), 2021- 
     [Eduardo Bonelli](https://ebonelli.github.io) Hoboken NJ (Stevens University), 2021-
     **Former SC members**  
     [Sandra Alves Porto](https://www.dcc.fc.up.pt/~sandra/Home/Home.html) (Universidade de Porto), 2017-21  
