@@ -146,6 +146,7 @@ LSFA started in 2006 in Natal (LSFA06) and its second and third editions were he
     [Giselle Reis](https://gisellereis.com/) Qatar (Carnegie Mellon University in Qatar) 2020-  
     [Daniele Nantes Sobrinho](https://www.mat.unb.br/~dnantes) Brasília (UnB), 2021- 
     [Eduardo Bonelli](https://ebonelli.github.io) Hoboken NJ (Stevens University), 2021-
+    
     **Former SC members**  
     [Sandra Alves Porto](https://www.dcc.fc.up.pt/~sandra/Home/Home.html) (Universidade de Porto), 2017-21  
     [Maribel Fernández](https://nms.kcl.ac.uk/maribel.fernandez/) London (King's College London), 2018-21  
