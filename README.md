@@ -147,7 +147,7 @@ LSFA started in 2006 in Natal (LSFA06) and its second and third editions were he
     [Mauricio Ayala-Rincón](http://ayala.mat.unb.br/) Brasília (UnB), 2022-  
     [Amy Felty](https://www.site.uottawa.ca/~afelty/) Ottawa (Université d'Ottawa) 2020-  
     [Giselle Reis](https://gisellereis.com/) Qatar (Carnegie Mellon University in Qatar) 2020-  
-    [Daniele Nantes Sobrinho](https://www.mat.unb.br/~dnantes) Brasília (UnB), 2021- 
+    [Daniele Nantes Sobrinho](https://www.mat.unb.br/~dnantes) Brasília (UnB), 2021-   
     [Eduardo Bonelli](https://ebonelli.github.io) Hoboken NJ (Stevens University), 2021-
     
     **Former SC members** 
