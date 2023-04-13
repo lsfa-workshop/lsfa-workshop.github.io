@@ -78,13 +78,13 @@ LSFA started in 2006 in Natal (LSFA06) and its second and third editions were he
 
 * Special Issue LSFA 2014, *Theoretical Computer Science* vol 685, 2017 ([toc at TCS site](https://www.sciencedirect.com/journal/theoretical-computer-science/vol/685))
 
-* Special Issue LSFA 2015+2016, *Theoretical Computer Science* vol 781, 2019 ([toc at TCS site](https://www.sciencedirect.com/journal/theoretical-computer-science/vol/781/suppl/C))
+* Special Issue LSFA 2015+16, *Theoretical Computer Science* vol 781, 2019 ([toc at TCS site](https://www.sciencedirect.com/journal/theoretical-computer-science/vol/781/suppl/C))
     
-* Special Issue LSFA 2017+2018, *Mathematical Structures in Computer Science* vol 31(3), 2021 ([toc at MSCS site](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/issue/9ACF45871D62D25C52CC8BB543C9EFDE))
+* Special Issue LSFA 2017+18, *Mathematical Structures in Computer Science* vol 31(3), 2021 ([toc at MSCS site](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/issue/9ACF45871D62D25C52CC8BB543C9EFDE))
 
-* Special Issue LSFA 2019+2020, *Mathematical Strucutres in Computer Science*, vol 32(9), 2022 ([toc at MSCS site](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/issue/79A686FBD7148AF33D343996E61A9C5A))
+* Special Issue LSFA 2019+20, *Mathematical Strucutres in Computer Science*, vol 32(9), 2022 ([toc at MSCS site](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/issue/79A686FBD7148AF33D343996E61A9C5A))
 
-* Special Issue LSFA 2020+2021, *Mathematical Strucutres in Computer Science*, Guest Eds. Daniele Nantes, Eduardo Bonelli.
+* Special Issue LSFA 2020+21, *Mathematical Strucutres in Computer Science*, Guest Eds. Daniele Nantes, Eduardo Bonelli.
 
 ### Proceedings: 
 
