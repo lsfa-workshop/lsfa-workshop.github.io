@@ -80,9 +80,11 @@ LSFA started in 2006 in Natal (LSFA06) and its second and third editions were he
 
 * Special Issue LSFA 2015+2016, *Theoretical Computer Science* vol 781, 2019 ([toc at TCS site](https://www.sciencedirect.com/journal/theoretical-computer-science/vol/781/suppl/C))
     
-* Special Issue LSFA 2017+2018, *Mathematical Structures in Computer Science* vol 31(3), 2021 ([toc at MSCS site](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/issue/9ACF45871D62D25C52CC8BB543C9EFDE)
+* Special Issue LSFA 2017+2018, *Mathematical Structures in Computer Science* vol 31(3), 2021 ([toc at MSCS site](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/issue/9ACF45871D62D25C52CC8BB543C9EFDE))
 
-* Special Issue LSFA 2019+2020, Mathematical Strucutres in Computer Science, Guest Eds. Amy Felty and Giselle Reis. 
+* Special Issue LSFA 2019+2020, *Mathematical Strucutres in Computer Science*, vol 32(9), 2022 ([toc at MSCS site](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/issue/79A686FBD7148AF33D343996E61A9C5A))
+
+* Special Issue LSFA 2020+2021, *Mathematical Strucutres in Computer Science*, Guest Eds. Daniele Nantes, Eduardo Bonelli.
 
 ### Proceedings: 
 
@@ -116,6 +118,7 @@ LSFA started in 2006 in Natal (LSFA06) and its second and third editions were he
 
 * Proc. LSFA 2021, EPTCS vol 357, 2022. ([Contents](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?LSFA2021), [doi](https://doi.org/10.4204/EPTCS.357))
 
+* Proc. LSFA 2022, EPTCS vol 376, 2023. ([Contents](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?LSFA2022), [doi](https://doi.org/10.4204/EPTCS.376))
 
 # LSFA Bylaws 
 
