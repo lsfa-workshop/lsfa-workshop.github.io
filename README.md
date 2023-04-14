@@ -84,7 +84,7 @@ LSFA started in 2006 in Natal (LSFA06) and its second and third editions were he
 
 * Special Issue LSFA 2019+20, *Mathematical Strucutres in Computer Science*, vol 32(9), 2022 ([toc at MSCS site](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/issue/79A686FBD7148AF33D343996E61A9C5A))
 
-* Special Issue LSFA 2020+21, *Mathematical Strucutres in Computer Science*, Guest Eds. Daniele Nantes, Eduardo Bonelli.
+* Special Issue LSFA 2021+22, *Mathematical Strucutres in Computer Science*, Guest Eds. Daniele Nantes, Eduardo Bonelli.
 
 ### Proceedings: 
 
