@@ -62,7 +62,7 @@ LSFA started in 2006 in Natal (LSFA06), and its second and third editions were h
   2022 ISs: Ciro Russo, Claudia Nalon. 
  
 * 2023 PC chairs: Temur Kutsia and Daniel Lima Ventura 
-  2023 ISs: Cynthia Kop, and Pablo Barembaum
+  2023 ISs: Cynthia Kop, Brigitte Pientka, and Pablo Barembaum
 
 ## Publications 
 ### Special Issues: 
