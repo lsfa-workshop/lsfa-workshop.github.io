@@ -148,16 +148,18 @@ LSFA started in 2006 in Natal (LSFA06), and its second and third editions were h
 ## Composition:
 
 1.  **Current SC members**
-   
+
+    [Temur Kutsia](https://www3.risc.jku.at/people/tkutsia/) Linz (RISC/Johannes Kepler Universität), 2023-
+    [Cynthia Kop](https://www.cs.ru.nl/~cynthiakop/index_en.html) Nijmegen (Radboud Universiteit Nijmegen), 2023-
     [Bruno Lopes Vieira](http://www2.ic.uff.br/~bruno/) Niteroi (UFF), 2022-   
     [Mauricio Ayala-Rincón](http://ayala.mat.unb.br/) Brasília (UnB), 2022-  (chair)  
-    [Amy Felty](https://www.site.uottawa.ca/~afelty/) Ottawa (Université d'Ottawa) 2020-  
-    [Giselle Reis](https://gisellereis.com/) Qatar (Carnegie Mellon University in Qatar) 2020-  
     [Daniele Nantes Sobrinho](https://www.mat.unb.br/~dnantes) Brasília (UnB), 2021-   
     [Eduardo Bonelli](https://ebonelli.github.io) Hoboken NJ (Stevens University), 2021-
     
     **Former SC members**
-    
+
+    [Amy Felty](https://www.site.uottawa.ca/~afelty/) Ottawa (Université d'Ottawa) 2020-23  
+    [Giselle Reis](https://gisellereis.com/) Qatar (Carnegie Mellon University in Qatar) 2020-23  
     [Carlos Olarte Natal](https://sites.google.com/site/carlosolarte) (UFRN), 2018-22 (chair)  
     [Cláudia Nalon](https://cic.unb.br/~nalon/) Brasília (UnB), 2018-22  
     [Sandra Alves Porto](https://www.dcc.fc.up.pt/~sandra/Home/Home.html) (Universidade de Porto), 2017-21  
