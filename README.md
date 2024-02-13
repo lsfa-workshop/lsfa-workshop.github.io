@@ -150,7 +150,7 @@ LSFA started in 2006 in Natal (LSFA06), and its second and third editions were h
 # Steering Committee
 ## Composition:
 
-1.  **Current SC members**
+1. **Current SC members**
 
    * [Temur Kutsia](https://www3.risc.jku.at/people/tkutsia/) Linz (RISC/Johannes Kepler Universität), 2023-
    * [Cynthia Kop](https://www.cs.ru.nl/~cynthiakop/index_en.html) Nijmegen (Radboud Universiteit Nijmegen), 2023-
@@ -159,7 +159,7 @@ LSFA started in 2006 in Natal (LSFA06), and its second and third editions were h
    * [Daniele Nantes Sobrinho](http://www.mat.unb.br/~dnantes) Brasília (UnB), 2021-   
    * [Eduardo Bonelli](https://ebonelli.github.io) Hoboken NJ (Stevens University), 2021-
     
- 2.   **Former SC members**
+2. **Former SC members**
 
     *  [Amy Felty](https://www.site.uottawa.ca/~afelty/)  Ottawa (Université d'Ottawa) 2020-23  
     *  [Giselle Reis](https://gisellereis.com/) Qatar (Carnegie Mellon University in Qatar) 2020-23  
