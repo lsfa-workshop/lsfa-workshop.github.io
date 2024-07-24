@@ -1,71 +1,76 @@
 # Welcome to the LSFA Webpage!
 
 # About LSFA
-LSFA is an International Workshop on Logical and Semantic Frameworks with Applications. Logical and semantic frameworks are formal languages used to represent logics, languages, and systems. These frameworks provide mathematical foundations for the formal specification of systems and programming languages, supporting tool development and reasoning.
+LSFA is an International Workshop on Logical and Semantic Frameworks with Applications launched in 2006. Logical and semantic frameworks are formal languages used to represent logics, languages, and systems. These frameworks provide mathematical foundations for the formal specification of systems and programming languages, supporting tool development and reasoning.
 
-This series aims to put together theoreticians and practitioners to promote new techniques and results from the theoretical side and to provide feedback on the implementation and use of such techniques and results from the practical side. 
+The LSFA series aims to bring together theoreticians and practitioners to promote new techniques and results from the theoretical side and provide feedback on the implementation and use of such techniques and results from the practical side. 
 
 LSFA started in 2006 in Natal (LSFA06), and its second and third editions were held in Ouro Preto ([LSFA07](https://mat.unb.br/~ayala/lsfa2007/welcome.html)) and Salvador ([LSFA08](https://dblp.org/db/journals/entcs/entcs247.html)) always as a satellite event to the Brazilian Symposium on Formal Methods (SBMF). In 2009 ([LSFA09](http://lsfa09.cic.unb.br/index.html)), it was held as a satellite event of [RDP](http://rdp09.cic.unb.br/) in Brasília, and subsequently, LSFA was a satellite event of ICTAC in Natal ([LSFA10](https://dblp.org/db/journals/entcs/entcs269.html)). Since its sixth edition, LSFA was held alone in Belo Horizonte ([LSFA11](https://arxiv.org/html/1203.5423)), Rio de Janeiro and Niteroi ([LSFA12](https://arxiv.org/html/1303.7136v1)), São Paulo ([LSFA13](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/305/suppl/C)), Brasília ([LSFA14](http://lsfa2014.cic.unb.br/)) and then in Natal ([LSFA15](https://www.mat.ufrn.br/~LSFA2015/LSFA2015/Welcome.html)) as part of NAT@Logic 2015. The eleventh edition, ([LSFA16](https://dblp.org/db/journals/entcs/entcs332.html)), was held as a satellite event of [FSCD 2016](http://fscd2016.dcc.fc.up.pt/) in Porto, the twelfth edition, ([LSFA17](http://lsfa2017.cic.unb.br/)), in Brasília, as a satellite of the collocated conferences [Tableaux](http://www.tableaux-ar.org/)+[FroCoS](http://frocos.cs.uiowa.edu/)+[ITP](https://itp2016.inria.fr/history/), the thirteenth edition, ([LSFA18](http://lia.ufc.br/~lsfa2018/)), was held alone in Fortaleza, the fourteenth edition, ([LSFA19](https://sites.google.com/view/lsfa2019)), as a satellite of [CADE 2019](https://www.mat.ufrn.br/cade-27/) in Natal, and the fifteenth edition, ([LSFA20](http://lsfa2020.ufba.br/)), took place in Bahia with the First Brazilian Workshop on Logic [WBL](http://lsfa2020.ufba.br/wbl.html). The Sixteen edition, ([LSFA2021](https://mat.unb.br/lsfa2021/)), was held as a satellite of [FSCD2021](https://fscd2021.dc.uba.ar), organised in Buenos Aires, online. The Seventeen edition ([LSFA2022](https://lsfa2022.github.io)) took place in Belo Horizonte. In 2023, the Eighteenth edition ([LSFA2023](https://sites.google.com/ufg.br/lsfa2023)) was affiliated to ([FSCD2023](https://easyconferences.eu/fscd2023/)) in Rome.    
 
  ** [Daniel Lima Ventura](https://ww2.inf.ufg.br/~daniel/) and [Thaynara Arielly de Lima](https://thaynaradelima.github.io/) are organizing The Nineteenth Logical and Semantic Frameworks with Applications, [LSFA 2024](https://sites.google.com/ufg.br/lsfa2024), in Goiânia from 18 to 20 September.  
 
-## List of PC chairs and Invited Speakers 
-* 2006 PC chairs: Christiano Braga, Edward Hermann Haeusler and Mauricio Ayala-Rincón  
+ ** The twentieth edition of LSFA will be co-located with the eighteenth edition of [CICM](https://cicm-conference.org/cicm.php) in Brasília from 6 to 11 October 2025.  
+
+## List of Progam co-chairs and Invited Speakers 
+* 2006 Progam co-chairs: Christiano Braga, Edward Hermann Haeusler and Mauricio Ayala-Rincón  
   2006 ISs: Narciso Marti Oliet, Joe Wells, and Uwe Wolter
 
-* 2007 PC chairs: Edward Hermann Haeusler and Mauricio Ayala-Rincón  
+* 2007 Progam co-chairs: Edward Hermann Haeusler and Mauricio Ayala-Rincón  
   2007 ISs: Gilles Dowek, Fairouz Kamareddine, and Simona Ronchi Della Rocca
 
-* 2008 PC chairs: Mario Benevides and Elaine Pimentel  
+* 2008 Progam co-chairs: Mario Benevides and Elaine Pimentel  
   2008 ISs: Cesar Muñoz, Christian Urban, and Marcelo Finger
   
-* 2009 PC chairs: Mauricio Ayala-Rincón and Fairouz Kamareddine  
+* 2009 Progam co-chairs: Mauricio Ayala-Rincón and Fairouz Kamareddine  
   2009 ISs: Delia Kesner, Jonathan Seldin, and Luis Fariñas del Cerro
   
-* 2010 PC chairs: Edward Hermann Haeusler and Luis Fariñas del Cerro  
+* 2010 Progam co-chairs: Edward Hermann Haeusler and Luis Fariñas del Cerro  
   2010 ISs: Ruy de Queiroz, Natarajan Shankar, and Freek Wiedijk
 
-* 2011 PC chairs: Elaine Pimentel and Simona Ronchi Della Rocca  
+* 2011 Progam co-chairs: Elaine Pimentel and Simona Ronchi Della Rocca  
   2011 ISs: Arnon Avron, Pete Manolios, and Luiz Carlos Pereira
   
-* 2012 PC chairs: Delia Kesner and Petrucio Viana  
+* 2012 Progam co-chairs: Delia Kesner and Petrucio Viana  
   2012 ISs Torben Braüner, Maribel Fernández, Edward Hermann Haeusler, and Alexandre Miquel
 
-* 2013 PC chairs: Maribel Fernández and Marcelo Finger  
+* 2013 Progam co-chairs: Maribel Fernández and Marcelo Finger  
   2013 ISs: Carlos Areces, Marcello D'Agostino, and Jose Meseger
 
-* 2014 PC chairs: Ian Mackie and Mauricio Ayala-Rincón  
+* 2014 Progam co-chairs: Ian Mackie and Mauricio Ayala-Rincón  
   2014 ISs: Ugo Montanari, Andrew Pitts, and René Thiemann
   
-* 2015 PC chairs: Mario Benevides and René Thiemann  
+* 2015 Progam co-chairs: Mario Benevides and René Thiemann  
   2015 ISs: Ofer Arieli, Valentin Goranko, Dale Miller, and Valeria de Paiva
 
-* 2016 PC chairs: Vivek Nigam and Mario Florido  
+* 2016 Progam co-chairs: Vivek Nigam and Mario Florido  
   2016 ISs: Gilles Barthe, Kaustuv Chaudhuri, and João Marques Silva
   
-* 2017 PC chairs: Sandra Alves and Renata Wassermann  
+* 2017 Progam co-chairs: Sandra Alves and Renata Wassermann  
   2017 ISs: Beniamino Accattoli, Hélène Kirchner, and Renate Schmidt
   
-* 2018 PC chairs: Carlos Olarte and Beniamino Accattoli  
+* 2018 Progam co-chairs: Carlos Olarte and Beniamino Accattoli  
   2018 ISs: Amy Felty, Andreas Herzig, Yiannis Moschovakis, and Alessandra Palmigiano
   
-* 2019 PC chairs: Amy Felty and João Marcos  
+* 2019 Progam co-chairs: Amy Felty and João Marcos  
   2019 ISs: Pascal Fontaine, Achim Jung, Vivek Nigam, Elaine Pimentel, and Giselle Reis
 
-* 2020 PC chairs: Cláudia Nalon and Giselle Reis  
+* 2020 Progam co-chairs: Cláudia Nalon and Giselle Reis  
   2020 ISs: Delia Kesner, Eduardo Bonelli, and Mauricio Ayala-Rincón
 
-* 2021 PC chairs: Mauricio Ayala-Rincón and Eduardo Bonelli   
+* 2021 Progam co-chairs: Mauricio Ayala-Rincón and Eduardo Bonelli   
   2021 ISs: Alejandro Díaz-Caro, Alexandra Silva, and Giulio Guerrieri
   
-* 2022 PC chairs: Daniele Nantes Sobrinho, and Pascal Fontaine   
+* 2022 Progam co-chairs: Daniele Nantes Sobrinho, and Pascal Fontaine   
   2022 ISs: Ciro Russo, Claudia Nalon. 
  
-* 2023 PC chairs: Temur Kutsia and Daniel Lima Ventura    
+* 2023 Progam co-chairs: Temur Kutsia and Daniel Lima Ventura    
   2023 ISs: Cynthia Kop, Brigitte Pientka, and Pablo Barembaum
 
-* 2024 PC chairs: Cynthia Kop and Hélida Salles Santos
+* 2024 Progam co-chairs: Cynthia Kop and Hélida Salles Santos
   2024 ISs: Maribel Fernández, Marcelo Finger, Graçaliz Dimuro, Anderson Paiva Cruz
+
+* 2025 Progam co-chairs: Haniel Barbosa and Christophe Ringeissen
+  225 ISs: TBD  
 
 ## Publications 
 ### Special Issues: 
