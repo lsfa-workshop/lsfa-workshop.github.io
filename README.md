@@ -66,11 +66,11 @@ LSFA started in 2006 in Natal (LSFA06), and its second and third editions were h
 * 2023 Progam co-chairs: Temur Kutsia and Daniel Lima Ventura    
   2023 ISs: Cynthia Kop, Brigitte Pientka, and Pablo Barembaum
 
-* 2024 Progam co-chairs: Cynthia Kop and Hélida Salles Santos
+* 2024 Progam co-chairs: Cynthia Kop and Hélida Salles Santos    
   2024 ISs: Maribel Fernández, Marcelo Finger, Graçaliz Dimuro, Anderson Paiva Cruz
 
 * 2025 Progam co-chairs: Haniel Barbosa and Christophe Ringeissen
-  225 ISs: TBD  
+  2025 ISs: TBD  
 
 ## Publications 
 ### Special Issues: 
