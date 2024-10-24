@@ -1,7 +1,7 @@
 # Welcome to the LSFA Webpage!
 
 # About LSFA
-LSFA is an International Workshop on Logical and Semantic Frameworks with Applications launched in 2006. Logical and semantic frameworks are formal languages used to represent logics, languages, and systems. These frameworks provide mathematical foundations for the formal specification of systems and programming languages, supporting tool development and reasoning.
+LSFA is an International Meeting on Logical and Semantic Frameworks with Applications launched in 2006. Logical and semantic frameworks are formal languages used to represent logics, languages, and systems. These frameworks provide mathematical foundations for the formal specification of systems and programming languages, supporting tool development and reasoning.
 
 The LSFA series aims to bring together theoreticians and practitioners to promote new techniques and results from the theoretical side and provide feedback on the implementation and use of such techniques and results from the practical side. 
 
@@ -92,6 +92,8 @@ LSFA started in 2006 in Natal (LSFA06), and its second and third editions were h
 
 * Special Issue LSFA 2021+22, *Mathematical Strucutres in Computer Science*, Guest Eds. Daniele Nantes, Eduardo Bonelli.
 
+* Special Issue LSFA 2023+24, TBD, Guest Eds. Cynthia Kop, Daniel Lima Ventura.
+  
 ### Proceedings: 
 
 * Proc. LSFA 2007, ENTCS vol 205, 2008 ([Contents](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/205/suppl/C), [doi](https://www.sciencedirect.com/science/article/pii/S1571066108001679?via%3Dihub))
@@ -128,7 +130,7 @@ LSFA started in 2006 in Natal (LSFA06), and its second and third editions were h
 
 * Proc. LSFA 2023, EPTCS vol 402, 2024.  ([Contents](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?LSFA2023), [doi](https://doi.org/10.4204/EPTCS.402))
 
-* Proc. LSFA 2024, Eds. Cynthia Kop and Hélida Salles Santos (TBD)
+* Proc. LSFA 2024, Eds. Cynthia Kop and Hélida Salles Santos (EPTCS)
 
 # LSFA Bylaws 
 
