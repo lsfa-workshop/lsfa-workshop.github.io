@@ -1,9 +1,9 @@
 #+TITLE: LSFA 2025
-#+SUBTITLE: 20th International Workshop on Logical and Semantic Frameworks, with Applications
+#+SUBTITLE: 20th International Symposium on Logical and Semantic Frameworks, with Applications
 #+EMAIL: flaviomoura@unb.br
 
 #+CREATED: [2024-11-20 qua 14:28]
-#+LAST_MODIFIED: [2024-11-20 qua 21:44]
+#+LAST_MODIFIED: [2024-11-21 qui 15:56]
 
 #+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+options: author:nil broken-links:nil c:nil creator:nil
@@ -17,13 +17,11 @@
 #+creator: Emacs 28.2 (Org mode 9.5.5)
 #+cite_export:
 
-The *20th International Workshop on Logical and Semantic Frameworks, with Applications* (LSFA 2025) is a satellite event of the *18th Conference on Intelligent Computer Mathematics* ([[https://cicm-conference.org/2025/cicm.php][CICM 2025]]) to be held in Brasília, the capital of Brazil, from October 6 to October 11, 2025.
+The *20th International Symposium on Logical and Semantic Frameworks, with Applications* (LSFA 2025) is a satellite event of the *18th Conference on Intelligent Computer Mathematics* ([[https://cicm-conference.org/2025/cicm.php][CICM 2025]]) to be held in Brasília, the capital of Brazil, from October 6 to October 11, 2025.
 
+LSFA is an International Symposium on Logical and Semantic Frameworks with Applications launched in 2006. Logical and semantic frameworks are formal languages that represent logics and languages, as well as computational, AI and deductive systems. These frameworks provide mathematical foundations for the formal specification of systems and programming languages, supporting tool development and reasoning.
 
-Logical and semantic frameworks are formal languages used to represent logics, languages and systems. These frameworks provide foundations for the formal specification of systems and programming languages, supporting tool development and reasoning. 
-
-
-The aim of this series is bringing together theoreticians and practitioners to promote new techniques and results, from the theoretical side, and feedback on the implementation and use of such techniques and results, from the practical side. LSFA includes areas such as proof and type theory, equational deduction and rewriting systems, automated reasoning and concurrency theory.
+The LSFA series is a platform that fosters collaboration, bringing together theoreticians and practitioners. LSFA aims to promote techniques and results from the theoretical side, ranging from well-established ones such as lambda calculus and type theory to state-of-the-art ones such as machine learning, and provide feedback on integrating, implementing and using such methods and results from the practical side.
 
 ------
 
