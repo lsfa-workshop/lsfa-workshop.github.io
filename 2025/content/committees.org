@@ -3,7 +3,7 @@
 #+EMAIL: flaviomoura@unb.br
 
 #+CREATED: [2024-11-20 qua 14:28]
-#+LAST_MODIFIED: [2024-11-20 qua 18:52]
+#+LAST_MODIFIED: [2024-11-21 qui 09:30]
 
 #+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+options: author:nil broken-links:nil c:nil creator:nil
@@ -22,13 +22,14 @@
 ** Program Committee
 
 *** Chairs
--
+- [[https://members.loria.fr/CRingeissen/][Christophe Ringeissen]], Inria - LORIA, France
+- [[https://hanielbarbosa.com/][Haniel Barbosa]], Universidade Federal de Minas Gerais, Brazil
   
 *** Members
--
+- TBD
   
 ** Organizing Committee
-- 
+
 
 
 
