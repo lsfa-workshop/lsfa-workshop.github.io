@@ -1,0 +1,67 @@
+#+TITLE: LSFA 2025
+#+SUBTITLE: 20th International Workshop on Logical and Semantic Frameworks, with Applications
+#+EMAIL: flaviomoura@unb.br
+
+#+CREATED: [2024-11-20 qua 14:28]
+#+LAST_MODIFIED: [2024-11-20 qua 18:52]
+
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+options: author:nil broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:nil
+#+options: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+options: timestamp:nil title:nil toc:nil todo:t |:t
+
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 28.2 (Org mode 9.5.5)
+#+cite_export:
+
+* Call For Papers
+
+** Topics of interest to this forum include, but are not limited to:
+
+- Automated deduction
+
+- Applications of logical and/or semantic frameworks
+
+- Computational and logical properties of semantic frameworks
+
+- Formal semantics of languages and systems
+
+- Implementation of logical and/or semantic frameworks
+
+- Lambda and combinatory calculi
+
+- Logical aspects of computational complexity
+
+- Logical frameworks
+
+- Process calculi
+
+- Proof theory
+
+- Semantic frameworks
+
+- Specification languages and meta-languages
+
+- Type theory
+
+Contributions should be written in English and submitted in the form of full papers (with a maximum of 16 pages) or short papers (with a maximum of 6 pages). They must be unpublished and not submitted simultaneously for publication elsewhere. The papers should be prepared in latex using EPTCS style. The submission should be in the form of a PDF file uploaded to EasyChair: 
+
+https://easychair.org/conferences/?conf=lsfa2025 (*TBD*)
+
+** Important Dates
+
+- Abstract: *TBD*
+- Submission: *TBD*
+- Notification: *TBD*
+- Preliminary proceedings version due: *TBD*
+- Submission for final proceedings: *TBD*
+- Final version: *TBD*
+
+** Proceedings
+
+The pre-proceedings, containing the reviewed extended abstracts, will be handed-out at event registration. After the meeting the authors will be invited to submit full versions of their works for the post-proceedings publication in EPTCS (*TBC*). At least one of the authors should register for the conference. Presentations should be in English.
+
+According to the quality of submissions, the chairs will promote further publication of journal revised versions of the papers. Previous LSFA Special Issues have been published in journals as The Logical J. of the IGPL, Theoretical Computer Science and Mathematical Structures in Computer Sciences (see the LSFA page https://lsfa-workshop.github.io/).

@@ -1,0 +1,55 @@
+#+TITLE: LSFA 2025
+#+SUBTITLE: 20th International Workshop on Logical and Semantic Frameworks, with Applications
+#+EMAIL: flaviomoura@unb.br
+
+#+CREATED: [2024-11-20 qua 14:28]
+#+LAST_MODIFIED: [2024-11-20 qua 21:44]
+
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+options: author:nil broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:nil
+#+options: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+options: timestamp:nil title:nil toc:nil todo:t |:t
+
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 28.2 (Org mode 9.5.5)
+#+cite_export:
+
+The *20th International Workshop on Logical and Semantic Frameworks, with Applications* (LSFA 2025) is a satellite event of the *18th Conference on Intelligent Computer Mathematics* ([[https://cicm-conference.org/2025/cicm.php][CICM 2025]]) to be held in Brasília, the capital of Brazil, from October 6 to October 11, 2025.
+
+
+Logical and semantic frameworks are formal languages used to represent logics, languages and systems. These frameworks provide foundations for the formal specification of systems and programming languages, supporting tool development and reasoning. 
+
+
+The aim of this series is bringing together theoreticians and practitioners to promote new techniques and results, from the theoretical side, and feedback on the implementation and use of such techniques and results, from the practical side. LSFA includes areas such as proof and type theory, equational deduction and rewriting systems, automated reasoning and concurrency theory.
+
+------
+
+*Previous editions*: 
+
+- [[https://sites.google.com/ufg.br/lsfa2024][LSFA 2024]] - Goiânia, Brazil
+- [[https://lsfa2022.github.io/][LSFA 2023]] - Rome, Italy, satellite event of [[https://easyconferences.eu/fscd2023/][FSCD 2023]]
+- [[https://lsfa2022.github.io/][LSFA 2022]] - Belo Horizonte, Brazil
+- [[https://mat.unb.br/lsfa2021/index.html][LSFA 2021]] - Buenos Aires, Argentina (online), satellite event of [[https://fscd2021.dc.uba.ar/][FSCD 2021]]
+- [[https://lsfa2020.ufba.br/][LSFA 2020]] - Salvador, Brazil (online), collocated with the [[https://lsfa2020.ufba.br/wbl.html][First Brazilian Workshop on Logic]] (WBL)
+- [[https://sites.google.com/view/lsfa2019][LSFA 2019]] - Natal, Brazil, satellite event of [[https://www.mat.ufrn.br/cade-27/][CADE 2019]]
+- [[https://lia.ufc.br/~lsfa2018/][LSFA 2018]] - Fortaleza, Brazil
+- [[http://lsfa2017.cic.unb.br/][LSFA 2017]] - Brasília, Brazil, satellite event of the collocated [[http://tableaux2017.cic.unb.br/][Tableaux]] + [[http://frocos2017.cic.unb.br/][FroCoS]] + [[http://itp2017.cic.unb.br/][ITP]]
+- [[http://lsfa2016.mat.unb.br/][LSFA 2016]] - Porto, Portugal, satellite event of [[http://fscd2016.dcc.fc.up.pt/][FSCD 2016]]
+- [[https://www.mat.ufrn.br/~LSFA2015/LSFA2015/Welcome.html][LSFA 2015]] - Natal, Brazil, satellite event of [[https://sites.google.com/a/dimap.ufrn.br/natalogic-2015/home][NAT@Logic 2015]]
+- [[http://lsfa2014.cic.unb.br/][LSFA 2014]] - Brasília, Brazil
+- [[https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/305/suppl/C][LSFA 2013]] - São Paulo, Brazil
+- [[https://arxiv.org/html/1303.7136v1][LSFA 2012]] - Rio de Janeiro, Brazil
+- [[https://arxiv.org/html/1203.5423][LSFA 2011]] - Belo Horizonte, Brazil
+- [[https://dblp.org/db/journals/entcs/entcs269.html][LSFA 2010]] - Natal, Brazil, satellite event of [[http://ictac2010.dimap.ufrn.br/][ICTAC 2010]]
+- [[http://lsfa09.cic.unb.br/index.html][LSFA 2009]] - Brasília, Brazil, satellite event of [[http://rdp09.cic.unb.br/][RDP 2009]]
+- [[https://dblp.org/db/journals/entcs/entcs247.html][LSFA 2008]] - Salvador, Brazil, satellite event of [[https://www.lasid.ufba.br/sbmf2008/][SBMF 2008]]
+- [[https://mat.unb.br/~ayala/lsfa2007/welcome.html][LSFA 2007]] - Ouro Preto, Brazil, satellite event of [[http://www.sbmf2007.ufop.br/][SBMF 2007]]
+- [[http://maude.sip.ucm.es/lsfa06][LSFA 2006]] - Natal, Brazil.
+
+See https://lsfa-workshop.github.io/ for further information.
+
+* Sponsorship
+

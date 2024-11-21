@@ -1,0 +1,61 @@
+#+TITLE: LSFA 2025
+#+SUBTITLE: 20th International Workshop on Logical and Semantic Frameworks, with Applications
+#+EMAIL: flaviomoura@unb.br
+
+#+CREATED: [2024-11-20 qua 14:28]
+#+LAST_MODIFIED: [2024-11-21 qui 00:09]
+
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+options: author:nil broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:nil
+#+options: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+options: timestamp:nil title:nil toc:nil todo:t |:t
+
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 28.2 (Org mode 9.5.5)
+#+cite_export:
+
+* Venue
+
+All the events will be held at the [[https://www.finatec.org.br/][Finatec]] building located within the University of Brasília.
+Finatec- Fundação de Empreendimentos Científicos e Tecnológicos
+Campus Universitário Darcy Ribeiro
+Av. L3 Norte, Ed. Finatec
+Asa Norte, Brasília – DF
+CEP 70910-900
+
+** Accessibility
+Brasília is served by an international airport which handles around 19 million passengers a year. As part of the preparation for hosting the 2014 FIFA World Cup, the airport received massive investments, from both the public and private sectors, for the renovation of the passenger’s terminals and the enlargement of the taxiways, which has allowed to almost double the number of positions available for aircrafts and, thus, increase the number of available routes for both domestic and international flights. International flights directly connect Brasília with Santiago (Chile), Panama City (Panama), Miami (USA), Atlanta (USA), and Lisbon (Portugal).
+
+It is also worthy mentioning that Brasília hosts one of the most important regional hubs in Brazil. There are direct flights from all the state capitals, including Rio de Janeiro, São Paulo, Porto Alegre, Natal, Recife, among other places which are easily accessible directly from other continents and from other countries in the Americas.
+
+Brasília is centrally located and well served by coaches from elsewhere in Brazil, but prices for internal flights are competitive and travel times much shorter.
+
+** Transportation
+The airport is just 20 minutes away from the centre, where the hotels are. Taxis cost around € 15.00 and are a convenient way to go from and to the airport.
+
+There is also an Executive Bus from the airport to the Hotels Sectors. It runs every half an hour and stops by the door of or conveniently close to the main hotels in these areas. The trip costs R$ 12.00 (around € 2.50).
+
+Regular buses (lines 102, 102.1) also run from the airport to the main bus terminal in town, are frequent and quite cheap (€ 0.50). From the bus terminal you will need to catch another bus or a taxi to get to other places. If you do not speak Portuguese or do not know your way around, this is not recommended for you.
+
+** Visa Requirements                                              :noexport:
+Brazil’s foreign policy is based on reciprocity. The Brazilian immigration authority will not require application for a visa prior to travelling/entering the country if your own country does not require such from Brazilian nationals. Nationals of 86 countries can enter Brazil without a visa, including all EU countries. For those who need a visa, there is a special category for attendees of scientific meetings (VITUR), where a letter of invitation is needed. You should check with the Brazilian Consulate in your country what the requirements are. The organisation of the event will provide the required letters upon registration, in case you need them to apply for visas.
+
+** Accommodation
+Brasília has a vast number of hotels. They are located in the central area, closer to the cross between the Monumental and the Residential Axes, about 10 minutes by car to the events venue.
+
+- TBD
+
+** Out and Around
+Brasília is a modern, lively place, with a variety of attractions worth seeing. For those who like the urban environment and cultural activities, almost all public buildings are open for visitation, most of them with free guided tours. Besides the architectural features, they hold interesting art collections which are also open for visitation. For the more adventurous, we are in the middle of the Cerrado ecosystem, which makes trips to nearby parks and waterfalls a very pleasant experience. Some of the suggested places to visit include the National parks:
+
+- [[http://en.wikipedia.org/wiki/Chapada_dos_Veadeiros_National_Park][The Chapada dos Veadeiros National Park]]
+- [[https://en.wikipedia.org/wiki/Corumb%C3%A1_de_Goi%C3%A1s][Corumbá Falls]]
+- [[https://en.wikipedia.org/wiki/Itiquira_Falls][The Itiquira Falls]]
+  
+and nearby cities of historical interest:
+
+- [[https://en.wikipedia.org/wiki/Piren%C3%B3polis][Pirenópolis]]
+- [[https://en.wikivoyage.org/wiki/Goi%C3%A1s_(city)][Goiás City]] 

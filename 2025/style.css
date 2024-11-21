@@ -1,0 +1,115 @@
+/* HW colours */
+/* HW dark blue HWdb #0049aa */
+/* HW light grey HWlg #c3cbd3 */
+/* dark grey dg #404040 */
+/* light grey lg #f4f4f4 */
+
+/* HW's sans-serif font is Frutiger */
+/* HWfont*/
+/* Helvetica/Arial-based sans serif stack */
+/* font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif; */
+
+div#preamble {
+    height: 250px;
+    width: 100%;
+    background-image: url('brasilia2.jpg');
+    background-size: 100% 100%;
+    margin-right: 0;
+    padding: 10px;
+}
+
+body {
+    background: /*lg*/ #f4f4f4;
+    color: /*dg*/ #505050;
+    font-family: /*HWfont*/ Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 0 auto;
+    padding: 0;
+}
+
+a  {
+    color: /* HWdb */ #0049aa;
+    font-weight: bold;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration:underline;
+}
+
+h2 {
+    border-bottom: 1px solid /*dg*/ #404040;
+}
+
+dt {
+    font-weight: bold;
+}
+
+
+/* Content */
+
+#content {
+    line-height: 1.3em;
+    margin: 0 5% 5px;
+    padding: 0px;
+}
+
+/* Table of Contents */
+div#table-of-contents {
+    margin: 1%;
+    display: block;
+    position: fixed;
+    left: 0%;
+    top:50px;
+    list-style-type: none;
+    width: 20%;
+}
+
+#table-of-contents h2 {
+    visibility:hidden
+}
+#text-table-of-contents {
+    width:90%;
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+#text-table-of-contents li {
+    display:inline;
+}
+#text-table-of-contents li a {
+    width:90%;
+    line-height:2em;
+    float:left;
+    margin:0;
+    padding:1px 10px 1px 10px;
+    border-left:4px solid /*dg*/ #404040;
+    text-decoration:none;
+}
+#text-table-of-contents li a:hover, #table-of-contents li a.current {
+    background-color:/*HWlg*/ #c3cbd3;
+    border-left:4px solid /*HWdb*/ #0049aa;
+    color:/*dg*/ #505050;
+}
+#text-table-of-contents ul {
+    margin:0;
+    font-size:0.9em;
+}
+
+/* Images */
+
+div.figure {
+    float: right;
+    padding-left: 20px;
+    line-height: 0px;
+}
+
+/* Postamble */
+
+#postamble {
+    background-color:/*HWlg*/ #c3cbd3;
+    color:/*dg*/ #505050;
+    font-size:0.5em;
+    padding: 10px;
+}
+#postamble ul li {
+    display:block;
+}
