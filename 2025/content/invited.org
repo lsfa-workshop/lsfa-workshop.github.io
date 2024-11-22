@@ -3,7 +3,7 @@
 #+EMAIL: flaviomoura@unb.br
 
 #+CREATED: [2024-11-20 qua 14:28]
-#+LAST_MODIFIED: [2024-11-21 qui 09:23]
+#+LAST_MODIFIED: [2024-11-22 sex 09:08]
 
 #+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+options: author:nil broken-links:nil c:nil creator:nil
@@ -19,8 +19,8 @@
 
 * Invited Speakers
 
-- [[http://www2.ic.uff.br/~bruno/][Bruno Lopes]], Instituto de Computação, [[https://www.ic.uff.br/][Universidade Federal Fluminense]]
 - [[https://risc.jku.at/m/teimuraz-kutsia/][Temur Kutsia]], Research Institute for Symbolic Computation ([[https://risc.jku.at/][RISC]]), [[https://www.jku.at/][Johannes Kepler University]] (joint Invited Speaker with [[https://cicm-conference.org/2025/cicm.php][CICM 2025]])
+- [[http://www2.ic.uff.br/~bruno/][Bruno Lopes]], Instituto de Computação, [[https://www.ic.uff.br/][Universidade Federal Fluminense]]
 - [[https://u.cs.biu.ac.il/~zoharyo1/][Yoni Zohar]], Department of Computer Science, [[https://www.biu.ac.il/][Bar Ilan University]] 
 
 
