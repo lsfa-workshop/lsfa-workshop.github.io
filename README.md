@@ -164,7 +164,7 @@ LSFA started as a workshop in 2006 in Natal (LSFA06), and its second and third e
    * [Temur Kutsia](https://www3.risc.jku.at/people/tkutsia/) Linz (RISC/Johannes Kepler Universität), 2023-
    * [Cynthia Kop](https://www.cs.ru.nl/~cynthiakop/index_en.html) Nijmegen (Radboud Universiteit Nijmegen), 2023-
    * [Bruno Lopes Vieira](http://www2.ic.uff.br/~bruno/) Niteroi (UFF), 2022-   
-   * [Mauricio Ayala-Rincón](http://www.mat.unb.br/~ayala) Brasília (UnB), 2022-  (chair)  
+   * [Mauricio Ayala-Rincón](https://github.com/mayalarincon/mayalarincon.github.io) Brasília (UnB), 2022-  (chair)  
    * [Daniele Nantes Sobrinho](http://www.mat.unb.br/~dnantes) Brasília (UnB), 2021-+1   
  
     
