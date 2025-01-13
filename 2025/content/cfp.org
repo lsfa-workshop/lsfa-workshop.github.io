@@ -3,7 +3,7 @@
 #+EMAIL: flaviomoura@unb.br
 
 #+CREATED: [2024-11-20 qua 14:28]
-#+LAST_MODIFIED: [2024-11-20 qua 18:52]
+#+LAST_MODIFIED: [2025-01-13 seg 06:03]
 
 #+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+options: author:nil broken-links:nil c:nil creator:nil
@@ -53,15 +53,13 @@ https://easychair.org/conferences/?conf=lsfa2025 (*TBD*)
 
 ** Important Dates
 
-- Abstract: *TBD*
-- Submission: *TBD*
-- Notification: *TBD*
-- Preliminary proceedings version due: *TBD*
-- Submission for final proceedings: *TBD*
-- Final version: *TBD*
+- Abstract: May 5, 2025
+- Submission: May 12, 2025
+- Notification: June 27, 2025
+- Camera-ready: July 18, 2025
 
 ** Proceedings
 
-The pre-proceedings, containing the reviewed extended abstracts, will be handed-out at event registration. After the meeting the authors will be invited to submit full versions of their works for the post-proceedings publication in EPTCS (*TBC*). At least one of the authors should register for the conference. Presentations should be in English.
+The accepted papers will appear in the LSFA 2025 proceedings, published online. At least one of the authors should register for the conference. Presentations should be in English.
 
 According to the quality of submissions, the chairs will promote further publication of journal revised versions of the papers. Previous LSFA Special Issues have been published in journals as The Logical J. of the IGPL, Theoretical Computer Science and Mathematical Structures in Computer Sciences (see the LSFA page https://lsfa-workshop.github.io/).
