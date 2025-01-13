@@ -3,7 +3,7 @@
 #+EMAIL: flaviomoura@unb.br
 
 #+CREATED: [2024-11-20 qua 14:28]
-#+LAST_MODIFIED: [2025-01-13 seg 05:59]
+#+LAST_MODIFIED: [2025-01-13 Mon 16:44]
 
 #+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+options: author:nil broken-links:nil c:nil creator:nil
@@ -26,12 +26,13 @@
 - [[https://members.loria.fr/CRingeissen/][Christophe Ringeissen]], Inria - LORIA, France
   
 *** Members
+
+(*Already confirmed members*)
 - [[https://sites.google.com/site/beniaminoaccattoli/][Beniamino Accattoli]], [[https://www.inria.fr/en][Inria]] & [[https://www.lix.polytechnique.fr/][LIX, École Polytechnique]], France
 - [[https://www.dcc.fc.up.pt/~sandra/Home/Home.html][Sandra Alves]], [[https://www.dcc.fc.up.pt/site/][University of Porto]], Portugal
 - [[https://carlosareces.github.io/][Carlos Areces]],	[[https://www.famaf.unc.edu.ar/][FaMAF - Universidad Nacional de Córdoba]], Argentina
 - [[https://thaynaradelima.github.io/][Thaynara Arielly de Lima]], [[https://ime.ufg.br/][Universidade Federal de Goiás]], Brazil
 - [[https://mayalarincon.github.io/][Mauricio Ayala-Rincón]], [[https://www.cic.unb.br/][Universidade de Brasilía]], Brazil
-- [[https://hanielbarbosa.com/][Haniel Barbosa]], [[https://www.dcc.ufmg.br/][Universidade Federal de Minas Gerais]], Brazil (co-chair)
 - [[https://dimap.ufrn.br/~bedregal/][Benjamín Bedregal]], [[https://dimap.ufrn.br/][Universidade Federal do Rio Grande do Norte]], Brazil
 - [[https://www.st-andrews.ac.uk/computer-science/people/jkfb/][Juliana Bowles]], [[https://www.st-andrews.ac.uk/computer-science/][School of Computer Science, University of St Andrews]], UK
 - [[https://www.cs.cas.cz/dcerna/][David Cerna]], [[https://www.cs.cas.cz/][Czech Academy of Sciences Institute of Computer Science]], Czech republic
@@ -44,15 +45,18 @@
 - [[https://nalon.org/][Cláudia Nalon]], [[https://www.cic.unb.br/][Universidade de Brasilía]], Brazil
 - [[https://sites.google.com/site/carlosolarte/][Carlos Olarte]], [[https://lipn.univ-paris13.fr/][LIPN/Université Sorbonne Paris Nord]], France
 - [[https://sites.google.com/site/elainepimentel/][Elaine Pimentel]], [[http://pplv.cs.ucl.ac.uk/welcome/][University College London]], UK
-- [[https://members.loria.fr/CRingeissen/][Christophe Ringeissen]], [[https://www.loria.fr/en/][Inria/LORIA]], France (co-chair)
 - [[https://www.camilorocha.info/][Camilo Rocha]], [[https://www.javerianacali.edu.co/][Pontificia Universidad Javeriana Cali]], Colombia
 - [[https://c3novo.furg.br/index.php/component/content/article?id=283][Helida Santos]], [[https://c3novo.furg.br/][FURG]], Brazil
 - [[https://dblp.org/pid/202/2338.html][Mallku Soldevila]], [[https://www.dcc.ufmg.br/][Universidade Federal de Minas Gerais]], Brazil
 - [[https://ww2.inf.ufg.br/~daniel/][Daniel Ventura]], [[https://ww2.inf.ufg.br/][Universidade Federal de Goiás]], Brazil
   
-
 ** Organizing Committee
 
-
+- [[https://dblp.org/pid/03/8280.html][Andréia B. Avelar]], [[https://fup.unb.br/][Universidade de Brasilía]], Brazil
+- [[https://mayalarincon.github.io/][Mauricio Ayala-Rincón]], [[https://www.cic.unb.br/][Universidade de Brasilía]], Brazil
+- [[https://galdino.catalao.ufg.br/][André Luiz Galdino]], [[https://catalao.ufg.br/][Universidade Federal de Catalão]], Brazil
+- [[https://flaviomoura.info/][Flavio L. C. de Moura]], [[https://www.cic.unb.br/][Universidade de Brasilía]], Brazil
+- [[https://nalon.org/][Cláudia Nalon]], [[https://www.cic.unb.br/][Universidade de Brasilía]], Brazil
+- [[https://mat.unb.br/index.php/pessoas/docentes/20-daniele-nantes-sobrinho][Daniele Nantes-Sobrinho]], [[https://vtss.doc.ic.ac.uk/][Imperial College]], UK, and  [[https://www.cic.unb.br/][Universidade de Brasilía]], Brazil
 
 
