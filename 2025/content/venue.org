@@ -3,7 +3,7 @@
 #+EMAIL: flaviomoura@unb.br
 
 #+CREATED: [2024-11-20 qua 14:28]
-#+LAST_MODIFIED: [2025-04-07 Mon 11:19]
+#+LAST_MODIFIED: [2025-04-07 Mon 11:32]
 
 #+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+options: author:nil broken-links:nil c:nil creator:nil
@@ -31,7 +31,7 @@ Located in the geographic center of Brazil, Brasília, the federal capital and s
 
 *Discover Brasília*
 
- - *[[file:~/workspace/lsfa-workshop.github.io/2025/miniguia_rota_cerrado_setur_visualizacao.pdf][Cerrado Route]]*: adventure through the natural treasures, waterfalls, and parks of Brasília and its surroundings.
+ - *[[file:miniguia_rota_cerrado_setur_visualizacao.pdf][Cerrado Route]]*: adventure through the natural treasures, waterfalls, and parks of Brasília and its surroundings. ([[https://www.turismo.df.gov.br/wp-conteudo/uploads/2020/11/miniguia_rota_cerrado_setur_visualizacao.pdf][link]])
 
 ** Transportation                                                 :noexport:
 The airport is just 20 minutes away from the centre, where the hotels are. Taxis cost around € 15.00 and are a convenient way to go from and to the airport.
