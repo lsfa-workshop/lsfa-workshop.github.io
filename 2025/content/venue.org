@@ -3,7 +3,7 @@
 #+EMAIL: flaviomoura@unb.br
 
 #+CREATED: [2024-11-20 qua 14:28]
-#+LAST_MODIFIED: [2025-04-08 Tue 10:47]
+#+LAST_MODIFIED: [2025-04-08 Tue 11:04]
 
 #+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+options: author:nil broken-links:nil c:nil creator:nil
@@ -17,7 +17,7 @@
 #+creator: Emacs 28.2 (Org mode 9.5.5)
 #+cite_export:
 
-* Travel
+* Travel Information
 
 Brasília International Airport – Presidente Juscelino Kubitschek (BSB) is the primary gateway to Brazil’s capital and one of the country’s busiest airports. Located just 11 km from the city center, it combines modern infrastructure with striking architectural design, featuring a sleek, wave-like terminal roof that reflects Brasília’s iconic modernist style. As a key hub for domestic flights and international connections, the airport handles over 20 million passengers annually, offering a range of amenities, including premium lounges, shopping, and dining options. Its strategic location in the heart of Brazil makes it a vital link for both business and tourism, while its efficiency and sustainability initiatives—such as solar energy use—have earned it recognition as one of Latin America’s most advanced airports.
 
