@@ -3,7 +3,7 @@
 #+EMAIL: flaviomoura@unb.br
 
 #+CREATED: [2024-11-20 qua 14:28]
-#+LAST_MODIFIED: [2025-04-07 Mon 11:32]
+#+LAST_MODIFIED: [2025-04-08 Tue 10:47]
 
 #+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+options: author:nil broken-links:nil c:nil creator:nil
@@ -29,9 +29,20 @@ Brasília is centrally located and well served by coaches from elsewhere in Braz
 
 Located in the geographic center of Brazil, Brasília, the federal capital and seat of government, stands as an incomparable city. Built in just five years during the 1950s, it remains the only modern city designated as a UNESCO of World Heritage Site. The chief architect, Oscar Niemeyer, is globally renowned for his unique style, which blends graceful curves with the bold use of concrete. Thanks to the beauty and coherence of his work, Niemeyer received the prestigious Pritzker Prize, an honor reserved for the greatest figures in global architecture.
 
-*Discover Brasília*
+*Discover Brasília* ([[https://www.turismo.df.gov.br/colecao-rotas-brasilia/][source]])
 
- - *[[file:miniguia_rota_cerrado_setur_visualizacao.pdf][Cerrado Route]]*: adventure through the natural treasures, waterfalls, and parks of Brasília and its surroundings. ([[https://www.turismo.df.gov.br/wp-conteudo/uploads/2020/11/miniguia_rota_cerrado_setur_visualizacao.pdf][link]])
+ 1. *[[file:miniguia_rota_cerrado_setur_visualizacao.pdf][Cerrado Route]]*: Adventure through the natural treasures, waterfalls, and parks of Brasília and its surroundings.
+ 2. *[[file:miniguia_rota_nautica_setur_visualizacao.pdf][Nautical Route]]*: Sail across the beautiful Paranoá Lake and discover the attractions along its shores on the Nautical Route.
+ 3. *[[file:miniguia_rota_arquitetonica_setur_visualizacao.pdf][Architectural Route]]*: Explore the works and monuments that make Brasília an open-air museum.
+ 4. *[[file:miniguia_rota_cultural_setur_visualizacao.pdf][Cultural Route]]*: Discover the places where creativity and inspiration are always on display in Brasília.
+ 5. *[[file:miniguia_rota_civica_setur_visualizacao.pdf][Civic Route]]*: Visit the palaces, squares, and spaces that are part of the history of Brazil's Capital.
+ 6. *[[file:miniguia_rota_paz_setur_visualizacao.pdf][Peace Route]]*: Journey through temples, monasteries, and other sacred spaces in the city born from a dream.
+ 7. *[[file:miniguia_rota_fora_eixos_setur_visualizacao.pdf][Beyond the Monuments Route]]*: Journey through the regions of Brazil's Federal District that bring together traditions from every state in the country.
+ 8. *[[file:Rota-LGBT-V10.pdf][Diversity Route]]*: A curated selection of LGBTQIA+ friendly venues and services.
+ 9. *[[file:GUIA_POR_DO_SOL_V3.pdf][Sunset Route]]*: Discover Brasília's most iconic spots to enjoy breathtaking sunsets.
+ 10. *[[file:SETUR_RotaDoRock_2024.pdf][Brasília Rock Route]]*: Get ready to explore, experience, and live the musical style that made Brasília legendary.
+ 11. *[[file:Rota-Lago-Oeste-PT-TELA-v8.pdf][Lago Oeste Route]]* (Portuguese only): It's at Lago Oeste where the gaze expands and meets breathtaking landscapes.
+ 12. *[[file:SETUR_MiniGuia_Vinicolas_A6-1.pdf][Brasília Wine Route]]* (Portuguese only): Get ready to experience the finest history and culture of Cerrado wines.
 
 ** Transportation                                                 :noexport:
 The airport is just 20 minutes away from the centre, where the hotels are. Taxis cost around € 15.00 and are a convenient way to go from and to the airport.
@@ -40,8 +51,11 @@ There is also an Executive Bus from the airport to the Hotels Sectors. It runs e
 
 Regular buses (lines 102, 102.1) also run from the airport to the main bus terminal in town, are frequent and quite cheap (€ 0.50). From the bus terminal you will need to catch another bus or a taxi to get to other places. If you do not speak Portuguese or do not know your way around, this is not recommended for you.
 
-** Visa Requirements                                              :noexport:
-Brazil’s foreign policy is based on reciprocity. The Brazilian immigration authority will not require application for a visa prior to travelling/entering the country if your own country does not require such from Brazilian nationals. Nationals of 86 countries can enter Brazil without a visa, including all EU countries. For those who need a visa, there is a special category for attendees of scientific meetings (VITUR), where a letter of invitation is needed. You should check with the Brazilian Consulate in your country what the requirements are. The organisation of the event will provide the required letters upon registration, in case you need them to apply for visas.
+** Visa ([[https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/informacoes-sobre-vistos-para-estrangeiros-viajarem-ao-brasil#voceprecisa][source]])
+
+Brazil adopts a policy of reciprocity regarding visas. This means that nationals of countries that require visas for Brazilian citizens will need a visa to travel to Brazil. According to the Brazilian law, Brazil must agree, on a reciprocal basis, to offer visa waiver to nationals of another country, except for the hypotheses established in the Decree 9.731 / 2019. Brazil has signed visa exemption agreements with about 90 countries.
+
+To find out if you need a visa to travel to Brazil, click [[https://www.gov.br/mre/pt-br/consulado-milao/visto-1/qgrv_simples_-ing-_30oct23.pdf][here]].
 
 ** Accommodation                                                  :noexport:
 Brasília has a vast number of hotels. They are located in the central area, closer to the cross between the Monumental and the Residential Axes, about 10 minutes by car to the events venue.
