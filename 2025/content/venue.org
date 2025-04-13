@@ -3,7 +3,7 @@
 #+EMAIL: flaviomoura@unb.br
 
 #+CREATED: [2024-11-20 qua 14:28]
-#+LAST_MODIFIED: [2025-04-08 Tue 11:04]
+#+LAST_MODIFIED: [2025-04-13 Sun 17:05]
 
 #+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+options: author:nil broken-links:nil c:nil creator:nil
@@ -57,10 +57,14 @@ Brazil adopts a policy of reciprocity regarding visas. This means that nationals
 
 To find out if you need a visa to travel to Brazil, click [[https://www.gov.br/mre/pt-br/consulado-milao/visto-1/qgrv_simples_-ing-_30oct23.pdf][here]].
 
-** Accommodation                                                  :noexport:
-Brasília has a vast number of hotels. They are located in the central area, closer to the cross between the Monumental and the Residential Axes, about 10 minutes by car to the events venue.
+** Accommodation
 
-- TBD
+Brasília has a vast number of hotels. They are located in the central area, closer to the cross between the Monumental and the Residential Axes, about 10 minutes by car to Universidade de Brasília.
+
+- The Northern Hotel Sector (SHN) is closer to Universidade de Brasília;
+- The Northern Hotel and Tourism Sector (SHTN) is also nearby, but public transportation to the university is more difficult;
+- There are hotels in different price ranges;
+- Use your preferred booking tool/platform/website for reservations.
 
 ** Out and Around                                                 :noexport:
 Brasília is a modern, lively place, with a variety of attractions worth seeing. For those who like the urban environment and cultural activities, almost all public buildings are open for visitation, most of them with free guided tours. Besides the architectural features, they hold interesting art collections which are also open for visitation. For the more adventurous, we are in the middle of the Cerrado ecosystem, which makes trips to nearby parks and waterfalls a very pleasant experience. Some of the suggested places to visit include the National parks:
