@@ -80,8 +80,8 @@ Mathematical Structures in Computer Science.
 Important Dates
 ---------------
 
-* Abstract: May 19, 2025 (extended, previously May 5)
-* Submission: May 26, 2025 (extended, previously May 12)
+* Abstract: May 26, 2025 (extended, initially May 5)
+* Submission: May 26, 2025 (extended, initially May 12)
 * Notification: June 27, 2025
 * Camera-ready: July 18, 2025
 
