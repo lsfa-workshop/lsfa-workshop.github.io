@@ -3,7 +3,7 @@
 #+EMAIL: flaviomoura@unb.br
 
 #+CREATED: [2024-11-20 qua 14:28]
-#+LAST_MODIFIED: [2025-01-13 seg 06:03]
+#+LAST_MODIFIED: [2025-06-04 Wed 10:28]
 
 #+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+options: author:nil broken-links:nil c:nil creator:nil
@@ -47,19 +47,19 @@
 
 - Type theory
 
-Contributions should be written in English and submitted in the form of full papers (with a maximum of 16 pages) or short papers (with a maximum of 6 pages). They must be unpublished and not submitted simultaneously for publication elsewhere. The papers should be prepared in latex using EPTCS style. The submission should be in the form of a PDF file uploaded to EasyChair: 
+Contributions should be written in English and submitted in the form of full papers (with a maximum of 16 pages excluding references) or short papers (with a maximum of 6 pages excluding references). They must be unpublished and not submitted simultaneously for publication elsewhere. The papers should be prepared in latex using EPTCS style. The submission should be in the form of a PDF file uploaded to EasyChair: 
 
-https://easychair.org/conferences/?conf=lsfa2025 (*TBD*)
+https://easychair.org/conferences/?conf=lsfa2025
 
-** Important Dates
+** Important Dates (AoE)
 
-- Abstract: May 5, 2025
-- Submission: May 12, 2025
+- Abstract submission: +May 5, 2025+ May 30, 2025
+- Paper submission: +May 12, 2025+ June 1, 2025
 - Notification: June 27, 2025
 - Camera-ready: July 18, 2025
 
 ** Proceedings
 
-The accepted papers will appear in the LSFA 2025 proceedings, published online. At least one of the authors should register for the conference. Presentations should be in English.
+The accepted papers will appear in the LSFA 2025 proceedings, published online as [[https://www.eptcs.org][EPTCS proceedings]]. At least one of the authors should register for the conference. Presentations should be in English.
 
 According to the quality of submissions, the chairs will promote further publication of journal revised versions of the papers. Previous LSFA Special Issues have been published in journals as The Logical J. of the IGPL, Theoretical Computer Science and Mathematical Structures in Computer Sciences (see the LSFA page https://lsfa-workshop.github.io/).

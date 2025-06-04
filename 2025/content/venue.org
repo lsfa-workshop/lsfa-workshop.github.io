@@ -3,7 +3,7 @@
 #+EMAIL: flaviomoura@unb.br
 
 #+CREATED: [2024-11-20 qua 14:28]
-#+LAST_MODIFIED: [2025-04-13 Sun 17:05]
+#+LAST_MODIFIED: [2025-06-04 Wed 10:48]
 
 #+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+options: author:nil broken-links:nil c:nil creator:nil
@@ -61,7 +61,17 @@ To find out if you need a visa to travel to Brazil, click [[https://www.gov.br/m
 
 Brasília has a vast number of hotels. They are located in the central area, closer to the cross between the Monumental and the Residential Axes, about 10 minutes by car to Universidade de Brasília.
 
-- The Northern Hotel Sector (SHN) is closer to Universidade de Brasília;
+- October is a high-demand period for hotels, so we recommend making reservations *in advance*.
+- The Northern Hotel Sector (SHN) is closer to Universidade de Brasília:
+  - *Athos Bulcão Hplus Executive* (Invited Speakers will be accommodated here).
+    - WhatsApp: +55 61 991817433
+  - *Comfort Suites Brasilia* 
+    - WhatsApp: +55 61 34246111
+  - *Let's Brasilia Hotel* 
+    - WhatsApp: +55 61 34242525
+  - *Brasilia Tower Hotel* 
+    - Email: reservas@castelodeitaipavahoteis.com.br
+    - Phone: +55 0800 799 9925
 - The Northern Hotel and Tourism Sector (SHTN) is also nearby, but public transportation to the university is more difficult;
 - There are hotels in different price ranges;
 - Use your preferred booking tool/platform/website for reservations.
