@@ -130,7 +130,7 @@ LSFA started as a workshop in 2006 in Natal (LSFA06), and its second and third e
 
 * Proc. LSFA 2023, EPTCS vol 402, 2024.  ([Contents](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?LSFA2023), [doi](https://doi.org/10.4204/EPTCS.402))
 
-* Proc. LSFA 2024, Eds. Cynthia Kop and Hélida Salles Santos (EPTCS)
+* Proc. LSFA 2024, EPTCS vol 421, 2025. ([Contents](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?LSFA2024), [doi](https://doi.org/ 10.4204/EPTCS.421))
 
 # LSFA Bylaws 
 
