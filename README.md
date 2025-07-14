@@ -9,65 +9,65 @@ LSFA started as a workshop in 2006 in Natal (LSFA06), and its second and third e
 
 ## The twentieth edition, ([LSFA 2025](https://lsfa-workshop.github.io/2025)), will be co-located with the eighteenth edition of [CICM](https://cicm-conference.org/cicm.php) in Brasília from 6 to 11 October 2025.  
 
-## List of Progam co-chairs and Invited Speakers 
-* 2006 Progam co-chairs: Christiano Braga, Edward Hermann Haeusler and Mauricio Ayala-Rincón  
+## List of Program co-chairs and Invited Speakers 
+* 2006 Program co-chairs: Christiano Braga, Edward Hermann Haeusler and Mauricio Ayala-Rincón  
   2006 ISs: Narciso Marti Oliet, Joe Wells, and Uwe Wolter
 
-* 2007 Progam co-chairs: Edward Hermann Haeusler and Mauricio Ayala-Rincón  
+* 2007 Program co-chairs: Edward Hermann Haeusler and Mauricio Ayala-Rincón  
   2007 ISs: Gilles Dowek, Fairouz Kamareddine, and Simona Ronchi Della Rocca
 
-* 2008 Progam co-chairs: Mario Benevides and Elaine Pimentel  
+* 2008 Program co-chairs: Mario Benevides and Elaine Pimentel  
   2008 ISs: Cesar Muñoz, Christian Urban, and Marcelo Finger
   
-* 2009 Progam co-chairs: Mauricio Ayala-Rincón and Fairouz Kamareddine  
+* 2009 Program co-chairs: Mauricio Ayala-Rincón and Fairouz Kamareddine  
   2009 ISs: Delia Kesner, Jonathan Seldin, and Luis Fariñas del Cerro
   
-* 2010 Progam co-chairs: Edward Hermann Haeusler and Luis Fariñas del Cerro  
+* 2010 Program co-chairs: Edward Hermann Haeusler and Luis Fariñas del Cerro  
   2010 ISs: Ruy de Queiroz, Natarajan Shankar, and Freek Wiedijk
 
-* 2011 Progam co-chairs: Elaine Pimentel and Simona Ronchi Della Rocca  
+* 2011 Program co-chairs: Elaine Pimentel and Simona Ronchi Della Rocca  
   2011 ISs: Arnon Avron, Pete Manolios, and Luiz Carlos Pereira
   
-* 2012 Progam co-chairs: Delia Kesner and Petrucio Viana  
+* 2012 Program co-chairs: Delia Kesner and Petrucio Viana  
   2012 ISs Torben Braüner, Maribel Fernández, Edward Hermann Haeusler, and Alexandre Miquel
 
-* 2013 Progam co-chairs: Maribel Fernández and Marcelo Finger  
+* 2013 Program co-chairs: Maribel Fernández and Marcelo Finger  
   2013 ISs: Carlos Areces, Marcello D'Agostino, and Jose Meseger
 
-* 2014 Progam co-chairs: Ian Mackie and Mauricio Ayala-Rincón  
+* 2014 Program co-chairs: Ian Mackie and Mauricio Ayala-Rincón  
   2014 ISs: Ugo Montanari, Andrew Pitts, and René Thiemann
   
-* 2015 Progam co-chairs: Mario Benevides and René Thiemann  
+* 2015 Program co-chairs: Mario Benevides and René Thiemann  
   2015 ISs: Ofer Arieli, Valentin Goranko, Dale Miller, and Valeria de Paiva
 
-* 2016 Progam co-chairs: Vivek Nigam and Mario Florido  
+* 2016 Program co-chairs: Vivek Nigam and Mario Florido  
   2016 ISs: Gilles Barthe, Kaustuv Chaudhuri, and João Marques Silva
   
-* 2017 Progam co-chairs: Sandra Alves and Renata Wassermann  
+* 2017 Program co-chairs: Sandra Alves and Renata Wassermann  
   2017 ISs: Beniamino Accattoli, Hélène Kirchner, and Renate Schmidt
   
-* 2018 Progam co-chairs: Carlos Olarte and Beniamino Accattoli  
+* 2018 Program co-chairs: Carlos Olarte and Beniamino Accattoli  
   2018 ISs: Amy Felty, Andreas Herzig, Yiannis Moschovakis, and Alessandra Palmigiano
   
-* 2019 Progam co-chairs: Amy Felty and João Marcos  
+* 2019 Program co-chairs: Amy Felty and João Marcos  
   2019 ISs: Pascal Fontaine, Achim Jung, Vivek Nigam, Elaine Pimentel, and Giselle Reis
 
-* 2020 Progam co-chairs: Cláudia Nalon and Giselle Reis  
+* 2020 Program co-chairs: Cláudia Nalon and Giselle Reis  
   2020 ISs: Delia Kesner, Eduardo Bonelli, and Mauricio Ayala-Rincón
 
-* 2021 Progam co-chairs: Mauricio Ayala-Rincón and Eduardo Bonelli   
+* 2021 Program co-chairs: Mauricio Ayala-Rincón and Eduardo Bonelli   
   2021 ISs: Alejandro Díaz-Caro, Alexandra Silva, and Giulio Guerrieri
   
-* 2022 Progam co-chairs: Daniele Nantes Sobrinho, and Pascal Fontaine   
+* 2022 Program co-chairs: Daniele Nantes Sobrinho, and Pascal Fontaine   
   2022 ISs: Ciro Russo, Claudia Nalon. 
  
-* 2023 Progam co-chairs: Temur Kutsia and Daniel Lima Ventura      
+* 2023 Program co-chairs: Temur Kutsia and Daniel Lima Ventura      
   2023 ISs: Cynthia Kop, Brigitte Pientka, and Pablo Barembaum
 
-* 2024 Progam co-chairs: Cynthia Kop and Hélida Salles Santos    
+* 2024 Program co-chairs: Cynthia Kop and Hélida Salles Santos    
   2024 ISs: Maribel Fernández, Marcelo Finger, Heloisa Camargo, Anderson Paiva Cruz
 
-* 2025 Progam co-chairs: Haniel Barbosa and Christophe Ringeissen         
+* 2025 Program co-chairs: Haniel Barbosa and Christophe Ringeissen         
   2025 ISs: Bruno Lopes, Yoni Zohar, and Temur Kutsia (joint CICM+LSFA Invited Speaker). 
 
 ## Publications 
