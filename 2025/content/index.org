@@ -3,7 +3,7 @@
 #+EMAIL: flaviomoura@unb.br
 
 #+CREATED: [2024-11-20 qua 14:28]
-#+LAST_MODIFIED: [2025-03-15 sáb 22:40]
+#+LAST_MODIFIED: [2025-07-18 sex 16:28]
 
 #+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+options: author:nil broken-links:nil c:nil creator:nil
@@ -51,8 +51,5 @@ See https://lsfa-workshop.github.io/ for further information.
 
 * Sponsorship
 
-[[./images/asl_logo.png]]
+[[./images/asl_logo.png]] [[./images/sbl_logo.jpg]] [[./images/SBM_logo_small.png]] [[./images/logo_capes.png]] [[./images/logo_cnpq.jpg]] 
 
-[[./images/sbl_logo.jpg]]
-
-[[./images/SBM_logo_small.png]]
