@@ -3,7 +3,7 @@
 #+EMAIL: flaviomoura@unb.br
 
 #+CREATED: [2024-11-20 qua 14:28]
-#+LAST_MODIFIED: [2025-07-18 sex 16:28]
+#+LAST_MODIFIED: [2025-08-01 Fri 05:15]
 
 #+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+options: author:nil broken-links:nil c:nil creator:nil
@@ -22,6 +22,10 @@ The *20th International Symposium on Logical and Semantic Frameworks, with Appli
 LSFA is an International Symposium on Logical and Semantic Frameworks with Applications launched in 2006. Logical and semantic frameworks are formal languages that represent logics and languages, as well as computational, AI and deductive systems. These frameworks provide mathematical foundations for the formal specification of systems and programming languages, supporting tool development and reasoning.
 
 The LSFA series is a platform that fosters collaboration, bringing together theoreticians and practitioners. LSFA aims to promote techniques and results from the theoretical side, ranging from well-established ones such as lambda calculus and type theory to state-of-the-art ones such as machine learning, and provide feedback on integrating, implementing and using such methods and results from the practical side.
+
+------
+
+*Registration is now open!* Please register via [[https://cicm-conference.org/2025/cicm.php][CICM 2025]] webpage: [[https://cicm-conference.org/2025/cicm.php?event=&menu=registration][link]]
 
 ------
 
