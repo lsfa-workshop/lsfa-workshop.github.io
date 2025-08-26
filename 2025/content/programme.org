@@ -3,7 +3,7 @@
 #+EMAIL: flaviomoura@unb.br
 
 #+CREATED: [2024-11-20 qua 14:28]
-#+LAST_MODIFIED: [2024-11-20 qua 18:53]
+#+LAST_MODIFIED: [2025-08-26 ter 14:04]
 
 #+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+options: author:nil broken-links:nil c:nil creator:nil
@@ -19,7 +19,35 @@
 
 * Programme
 
-TBD
+** October 7:
+
+- 10:30: *A Function-Set Framework: General Properties and Applications to Modal Logic.* Luke Bayzid, Alexandre Madeira and Manuel A. Martins
+
+- 11:00: *Sequent Calculi for Data-Aware Modal Logics.* Carlos Areces, Valentin Cassano, Danae Dutto and Raul Fervari
+
+- 11:30: *Characterization of Lattice Properties within Modal Extensions.* Alfredo R. Freire and Manuel A. Martins
+
+——
+
+- 14:00 _Invited Talk._  [[https://risc.jku.at/m/teimuraz-kutsia/][Temur Kutsia]], Research Institute for Symbolic Computation ([[https://risc.jku.at/][RISC]]), [[https://www.jku.at/][Johannes Kepler University]] (joint Invited Speaker with [[https://cicm-conference.org/2025/cicm.php][CICM 2025]])
+
+- 15:00 _Invited Talk._ *My Attempts To Save Politeness.*  [[https://u.cs.biu.ac.il/~zoharyo1/][Yoni Zohar]], Department of Computer Science, [[https://www.biu.ac.il/][Bar Ilan University]] 
+
+- 16:30: *Monoid Structures on Indexed Containers.* Michele De Pascalis, Tarmo Uustalu and Niccolò Veltrì
+
+- 17:00: *Towards the HSP Theorem in Nominal Algebra with Fixed-Point Constraints* (Work in Progress). Ali K. Caires-Santos
+
+- 17:30: *Business Meeting*
+
+
+** October 8:
+
+- 14:00 _Invited Talk._ *A Note on Propositional Dynamic Logic Expressiveness and Complexity.*  [[http://www2.ic.uff.br/~bruno/][Bruno Lopes]], Instituto de Computação, [[https://www.ic.uff.br/][Universidade Federal Fluminense]]
+
+- 16:30: *Nominal Sets in Rocq.* Fabrício Sanches Paranhos and Daniel Ventura
+
+- 17:00: *Termination modulo Commutativity for Nominal Systems* (Work in Progress). Daniella Santaguida
+
 
 
 
