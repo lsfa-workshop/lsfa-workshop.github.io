@@ -1,38 +1,38 @@
-<!DOCTYPE html>
-<html lang="en">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>LSFA 2025</title>
 <meta name="generator" content="Org Mode" />
 <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-<div id="preamble" class="status">
-<hr style="border-top: 1px solid black;">
-  <div class='topnav' style='display: flex; justify-content: space-between; align-items: center;'>
-    <a href="/index.html"><h1 style='margin-top: 0; margin-bottom: 0; margin-left:0px;'>LSFA 2025</h1></a>
-    <div>
-      <a href='index.html' style='font-weight:bold; font-style:italic;'>Home</a> / 
-      <a href='cfp.html' style='font-weight:bold; font-style:italic;'>CFP</a> /
-      <a href='committees.html' style='font-weight:bold; font-style:italic;'>Committees</a> /
-      <a href='accepted.html' style='font-weight:bold; font-style:italic;'>Accepted papers</a> /
-      <a href='invited.html' style='font-weight:bold; font-style:italic;'>Invited Speakers</a> /
-      <a href='programme.html' style='font-weight:bold; font-style:italic;'>Programme</a> /
-      <a href='venue.html' style='font-weight:bold; font-style:italic;'>Travel Information</a> //
-    </div>
-  </div>
-<hr style="border-top: 1px solid black;">
-</div>
 <div id="content" class="content">
-
-<div id="outline-container-orgd7eae13" class="outline-2">
-<h2 id="orgd7eae13">Invited Speakers</h2>
-<div class="outline-text-2" id="text-orgd7eae13">
+<div id="outline-container-orga4e4d98" class="outline-2">
+<h2 id="orga4e4d98">Invited Speakers</h2>
+<div class="outline-text-2" id="text-orga4e4d98">
 <ul class="org-ul">
-<li><a href="https://risc.jku.at/m/teimuraz-kutsia/">Temur Kutsia</a>, Research Institute for Symbolic Computation (<a href="https://risc.jku.at/">RISC</a>), <a href="https://www.jku.at/">Johannes Kepler University</a> (joint Invited Speaker with <a href="https://cicm-conference.org/2025/cicm.php">CICM 2025</a>)</li>
-<li><a href="http://www2.ic.uff.br/~bruno/">Bruno Lopes</a>, Instituto de Computação, <a href="https://www.ic.uff.br/">Universidade Federal Fluminense</a></li>
-<li><a href="https://u.cs.biu.ac.il/~zoharyo1/">Yoni Zohar</a>, Department of Computer Science, <a href="https://www.biu.ac.il/">Bar Ilan University</a></li>
+<li><a href="https://risc.jku.at/m/teimuraz-kutsia/">Temur Kutsia</a>, Research Institute for Symbolic Computation (<a href="https://risc.jku.at/">RISC</a>), <a href="https://www.jku.at/">Johannes Kepler University</a> (joint Invited Speaker with <a href="https://cicm-conference.org/2025/cicm.php">CICM 2025</a>)
+<ul class="org-ul">
+<li><b>Title</b>: Solving Symbolic Constraints</li>
+<li><b>Abstract</b>: Symbolic constraint solving is a fundamental technique in many areas of mathematics and computer science, providing the basis for key operations in automated reasoning, term rewriting, declarative programming, or formal methods. Important classes of symbolic constraints include unification, matching, generalization, disunification, ordering constraints. Efficient methods for solving them form the computational core of inference engines, proof assistants, program transformation systems, logical frameworks, etc. In this talk, we present recent advances in solving unification, matching, and generalization constraints in expressive theories, including those that involve background knowledge or binding constructs. We discuss algorithmic techniques for constraint solving, identify classes of problems that admit efficient solutions, and highlight their relevance for tools and techniques in symbolic computation and computer mathematics.</li>
+</ul></li>
+
+<li><a href="http://www2.ic.uff.br/~bruno/">Bruno Lopes</a>, Instituto de Computação, <a href="https://www.ic.uff.br/">Universidade Federal Fluminense</a>
+<ul class="org-ul">
+<li><b>Title</b>: A Note on Propositional Dynamic Logic Expressiveness and Complexity</li>
+<li><b>Abstract</b>: Propositional Dynamic Logic (PDL) is a sophisticated modal logic tailored to reason about programs. Several fragments and extensions of PDL are worth studying, allowing us to control complexity or increase expressiveness. By limiting PDL to deterministic fragments, such as Deterministic PDL or Strictly Deterministic PDL, we introduce new program behaviors by excluding nondeterministic choices or restricting the form of iteration. These restrictions affect both expressiveness and computational complexity. While standard PDL is decidable and has an EXPTIME-complete satisfiability, some deterministic fragments have lower complexity bounds, such as PSPACE-complete. It is a showcase of a trade-off between expressiveness and tractability. Conversely, attempts to increase expressiveness come with significant challenges. Extensions like Context-Free PDL result in undecidable validity. This discussion will explore the effects of restricting to deterministic programs and examine how to enhance expressiveness using memory.</li>
+</ul></li>
+
+<li><a href="https://u.cs.biu.ac.il/~zoharyo1/">Yoni Zohar</a>, Department of Computer Science, <a href="https://www.biu.ac.il/">Bar Ilan University</a>
+
+<ul class="org-ul">
+<li><b>Title</b>: My Attempts To Save Politeness</li>
+<li><b>Abstract</b>: Theory combination in Satisfiability Modulo Theories (SMT) deals with the generation of algorithms for combinations of theories, based on the algorithms for each of the specific theories being combined. Among the most important combination methods is the polite combination method, which has two major advantages: first, it only requires solvers for the theories being combined, and no other mechanism is needed (e.g., there is no need for an algorithm that computes cardinalities of models). Second, it only requires one of the theories to admit some property, while the other only has to be decidable. When polite combination was introduced, it was claimed that the required property is "politeness" (a notion I will formally and intuitively describe in my talk). But, later, it was shown that the correctness proof had a bug, and for the proof to work, a stronger property is needed to be assumed, namely "strong politeness". Hence, while the importance of the polite combination method is unquestionable (its incorporation in the state-of-the-art solver cvc5 is a case in point), it was left unclear what is the value of the politeness property. Can it still be considered a property that is relevant to theory combination? In this talk I will describe several attempts made by myself and others to answer this question positively, thus saving the politeness property. No background in theory combination or SMT is assumed, though politeness is expected.</li>
+</ul></li>
 </ul>
 </div>
 </div>

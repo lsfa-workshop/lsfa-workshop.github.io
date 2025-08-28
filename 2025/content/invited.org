@@ -3,7 +3,7 @@
 #+EMAIL: flaviomoura@unb.br
 
 #+CREATED: [2024-11-20 qua 14:28]
-#+LAST_MODIFIED: [2024-11-22 sex 09:08]
+#+LAST_MODIFIED: [2025-08-28 qui 11:51]
 
 #+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+options: author:nil broken-links:nil c:nil creator:nil
@@ -20,7 +20,16 @@
 * Invited Speakers
 
 - [[https://risc.jku.at/m/teimuraz-kutsia/][Temur Kutsia]], Research Institute for Symbolic Computation ([[https://risc.jku.at/][RISC]]), [[https://www.jku.at/][Johannes Kepler University]] (joint Invited Speaker with [[https://cicm-conference.org/2025/cicm.php][CICM 2025]])
+  - *Title*: Solving Symbolic Constraints
+  - *Abstract*: Symbolic constraint solving is a fundamental technique in many areas of mathematics and computer science, providing the basis for key operations in automated reasoning, term rewriting, declarative programming, or formal methods. Important classes of symbolic constraints include unification, matching, generalization, disunification, ordering constraints. Efficient methods for solving them form the computational core of inference engines, proof assistants, program transformation systems, logical frameworks, etc. In this talk, we present recent advances in solving unification, matching, and generalization constraints in expressive theories, including those that involve background knowledge or binding constructs. We discuss algorithmic techniques for constraint solving, identify classes of problems that admit efficient solutions, and highlight their relevance for tools and techniques in symbolic computation and computer mathematics.
+  
 - [[http://www2.ic.uff.br/~bruno/][Bruno Lopes]], Instituto de Computação, [[https://www.ic.uff.br/][Universidade Federal Fluminense]]
-- [[https://u.cs.biu.ac.il/~zoharyo1/][Yoni Zohar]], Department of Computer Science, [[https://www.biu.ac.il/][Bar Ilan University]] 
+  - *Title*: A Note on Propositional Dynamic Logic Expressiveness and Complexity
+  - *Abstract*: Propositional Dynamic Logic (PDL) is a sophisticated modal logic tailored to reason about programs. Several fragments and extensions of PDL are worth studying, allowing us to control complexity or increase expressiveness. By limiting PDL to deterministic fragments, such as Deterministic PDL or Strictly Deterministic PDL, we introduce new program behaviors by excluding nondeterministic choices or restricting the form of iteration. These restrictions affect both expressiveness and computational complexity. While standard PDL is decidable and has an EXPTIME-complete satisfiability, some deterministic fragments have lower complexity bounds, such as PSPACE-complete. It is a showcase of a trade-off between expressiveness and tractability. Conversely, attempts to increase expressiveness come with significant challenges. Extensions like Context-Free PDL result in undecidable validity. This discussion will explore the effects of restricting to deterministic programs and examine how to enhance expressiveness using memory.
+    
+- [[https://u.cs.biu.ac.il/~zoharyo1/][Yoni Zohar]], Department of Computer Science, [[https://www.biu.ac.il/][Bar Ilan University]]
+
+  - *Title*: My Attempts To Save Politeness
+  - *Abstract*: Theory combination in Satisfiability Modulo Theories (SMT) deals with the generation of algorithms for combinations of theories, based on the algorithms for each of the specific theories being combined. Among the most important combination methods is the polite combination method, which has two major advantages: first, it only requires solvers for the theories being combined, and no other mechanism is needed (e.g., there is no need for an algorithm that computes cardinalities of models). Second, it only requires one of the theories to admit some property, while the other only has to be decidable. When polite combination was introduced, it was claimed that the required property is "politeness" (a notion I will formally and intuitively describe in my talk). But, later, it was shown that the correctness proof had a bug, and for the proof to work, a stronger property is needed to be assumed, namely "strong politeness". Hence, while the importance of the polite combination method is unquestionable (its incorporation in the state-of-the-art solver cvc5 is a case in point), it was left unclear what is the value of the politeness property. Can it still be considered a property that is relevant to theory combination? In this talk I will describe several attempts made by myself and others to answer this question positively, thus saving the politeness property. No background in theory combination or SMT is assumed, though politeness is expected.
 
 
