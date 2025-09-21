@@ -9,7 +9,7 @@ LSFA started as a workshop in 2006 in Natal (LSFA06), and its second and third e
 
 The twentieth edition ([LSFA 2025](https://lsfa-workshop.github.io/2025)) will be co-located with the eighteenth edition of [CICM](https://cicm-conference.org/cicm.php) in Brasília from 6 to 11 October 2025. 
 
-LSFA 2026 will be proposed for colocation with ([FSCD/FLoC 2026](https://fscd2026.github.io/) in Lisbon.   
+LSFA 2026 will be proposed for colocation with ([FSCD/FLoC 2026](https://fscd2026.github.io/)) in Lisbon.   
 
 ## List of Program co-chairs and Invited Speakers 
 * 2006 Program co-chairs: Christiano Braga, Edward Hermann Haeusler and Mauricio Ayala-Rincón  
