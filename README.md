@@ -1,18 +1,18 @@
 # Welcome to the LSFA Webpage!
 
 # About LSFA
-LSFA is an International Symposium on Logical and Semantic Frameworks with Applications, launched in 2006. Logical and semantic frameworks are formal languages that represent logics and languages, as well as computational, AI and deductive systems. These frameworks provide mathematical foundations for the formal specification of systems and programming languages, supporting tool development and reasoning.
+LSFA is an International Symposium on Logical and Semantic Frameworks with Applications, launched in 2006. Logical and semantic frameworks are formal languages that represent logics and languages, as well as computational, AI, and deductive systems. These frameworks provide mathematical foundations for the formal specification of systems and programming languages, supporting tool development and reasoning.
 
 The LSFA series is a platform that fosters collaboration, bringing together theoreticians and practitioners. LSFA aims to promote techniques and results from the theoretical side, ranging from well-established ones such as lambda calculus and type theory to state-of-the-art ones such as machine learning, and provide feedback on integrating, implementing and using such methods and results from the practical side.
 
-LSFA started as a workshop in 2006 in Natal (LSFA06), and its second and third editions were held in Ouro Preto ([LSFA07](https://mat.unb.br/~ayala/lsfa2007/welcome.html)) and Salvador ([LSFA08](https://dblp.org/db/journals/entcs/entcs247.html)) always as a satellite event to the Brazilian Symposium on Formal Methods (SBMF). In 2009 ([LSFA09](http://lsfa09.cic.unb.br/index.html)), it was held as a satellite event of [RDP](http://rdp09.cic.unb.br/) in Brasília, and subsequently, LSFA was a satellite event of ICTAC in Natal ([LSFA10](https://dblp.org/db/journals/entcs/entcs269.html)). Since its sixth edition, LSFA was held alone in Belo Horizonte ([LSFA11](https://arxiv.org/html/1203.5423)), Rio de Janeiro and Niteroi ([LSFA12](https://arxiv.org/html/1303.7136v1)), São Paulo ([LSFA13](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/305/suppl/C)), Brasília ([LSFA14](http://lsfa2014.cic.unb.br/)) and then in Natal ([LSFA15](https://www.mat.ufrn.br/~LSFA2015/LSFA2015/Welcome.html)) as part of NAT@Logic 2015. The eleventh edition, ([LSFA16](https://dblp.org/db/journals/entcs/entcs332.html)), was held as a satellite event of [FSCD 2016](http://fscd2016.dcc.fc.up.pt/) in Porto, the twelfth edition, ([LSFA17](http://lsfa2017.cic.unb.br/)), in Brasília, as a satellite of the collocated conferences [Tableaux](http://www.tableaux-ar.org/)+[FroCoS](http://frocos.cs.uiowa.edu/)+[ITP](https://itp2016.inria.fr/history/), the thirteenth edition, ([LSFA18](http://lia.ufc.br/~lsfa2018/)), was held alone in Fortaleza, the fourteenth edition, ([LSFA19](https://sites.google.com/view/lsfa2019)), as a satellite of [CADE 2019](https://www.mat.ufrn.br/cade-27/) in Natal, and the fifteenth edition, ([LSFA20](http://lsfa2020.ufba.br/)), took place in Bahia with the First Brazilian Workshop on Logic [WBL](http://lsfa2020.ufba.br/wbl.html). The Sixteen edition, ([LSFA2021](https://mat.unb.br/lsfa2021/)), was held as a satellite of [FSCD2021](https://fscd2021.dc.uba.ar), organised in Buenos Aires, online. The Seventeen edition ([LSFA2022](https://lsfa2022.github.io)) took place in Belo Horizonte. In 2023, the Eighteenth edition, ([LSFA2023](https://sites.google.com/ufg.br/lsfa2023)) was affiliated to ([FSCD2023](https://easyconferences.eu/fscd2023/)) in Rome. In 2024, the Nineteenth edition ([LSFA 2024](https://sites.google.com/ufg.br/lsfa2024)) was held in Goiânia.  
+LSFA started as a workshop in 2006 in Natal (LSFA06), and its second and third editions were held in Ouro Preto ([LSFA07](https://mat.unb.br/~ayala/lsfa2007/welcome.html)) and Salvador ([LSFA08](https://dblp.org/db/journals/entcs/entcs247.html)), always as a satellite event to the Brazilian Symposium on Formal Methods (SBMF). In 2009 ([LSFA09](http://lsfa09.cic.unb.br/index.html)), it was held as a satellite event of [RDP](http://rdp09.cic.unb.br/) in Brasília, and subsequently, LSFA was a satellite event of ICTAC in Natal ([LSFA10](https://dblp.org/db/journals/entcs/entcs269.html)). Since its sixth edition, LSFA was held alone in Belo Horizonte ([LSFA11](https://arxiv.org/html/1203.5423)), Rio de Janeiro and Niteroi ([LSFA12](https://arxiv.org/html/1303.7136v1)), São Paulo ([LSFA13](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/305/suppl/C)), Brasília ([LSFA14](http://lsfa2014.cic.unb.br/)) and then in Natal ([LSFA15](https://www.mat.ufrn.br/~LSFA2015/LSFA2015/Welcome.html)) as part of NAT@Logic 2015. The eleventh edition, ([LSFA16](https://dblp.org/db/journals/entcs/entcs332.html)), was held as a satellite event of [FSCD 2016](http://fscd2016.dcc.fc.up.pt/) in Porto, the twelfth edition, ([LSFA17](http://lsfa2017.cic.unb.br/)), in Brasília, as a satellite of the collocated conferences [Tableaux](http://www.tableaux-ar.org/)+[FroCoS](http://frocos.cs.uiowa.edu/)+[ITP](https://itp2016.inria.fr/history/), the thirteenth edition, ([LSFA18](http://lia.ufc.br/~lsfa2018/)), was held alone in Fortaleza, the fourteenth edition, ([LSFA19](https://sites.google.com/view/lsfa2019)), as a satellite of [CADE 2019](https://www.mat.ufrn.br/cade-27/) in Natal, and the fifteenth edition, ([LSFA20](http://lsfa2020.ufba.br/)), took place in Bahia with the First Brazilian Workshop on Logic [WBL](http://lsfa2020.ufba.br/wbl.html). The Sixteen edition, ([LSFA2021](https://mat.unb.br/lsfa2021/)), was held as a satellite of [FSCD2021](https://fscd2021.dc.uba.ar), organised in Buenos Aires, online. The Seventeen edition ([LSFA2022](https://lsfa2022.github.io)) took place in Belo Horizonte. In 2023, the Eighteenth edition, ([LSFA2023](https://sites.google.com/ufg.br/lsfa2023)) was affiliated to ([FSCD2023](https://easyconferences.eu/fscd2023/)) in Rome. In 2024, the Nineteenth edition ([LSFA 2024](https://sites.google.com/ufg.br/lsfa2024)) was held in Goiânia.  
 
 The twentieth edition ([LSFA 2025](https://lsfa-workshop.github.io/2025)) will be co-located with the eighteenth edition of [CICM](https://cicm-conference.org/cicm.php) in Brasília from 6 to 11 October 2025. 
 
-LSFA 2026 will be proposed for colocation with ([FSCD/FLoC 2026](https://fscd2026.github.io/)) in Lisbon.   
+LSFA 2026 will be proposed for colocation with [FSCD/FLoC 2026](https://fscd2026.github.io/) in Lisbon.   
 
-## List of Program co-chairs and Invited Speakers 
-* 2006 Program co-chairs: Christiano Braga, Edward Hermann Haeusler and Mauricio Ayala-Rincón  
+## List of Program Co-Chairs and Invited Speakers 
+* 2006 Program co-chairs: Christiano Braga, Edward Hermann Haeusler, and Mauricio Ayala-Rincón  
   2006 ISs: Narciso Marti Oliet, Joe Wells, and Uwe Wolter
 
 * 2007 Program co-chairs: Edward Hermann Haeusler and Mauricio Ayala-Rincón  
@@ -170,7 +170,7 @@ LSFA 2026 will be proposed for colocation with ([FSCD/FLoC 2026](https://fscd202
    * [Temur Kutsia](https://www3.risc.jku.at/people/tkutsia/) Linz (RISC/Johannes Kepler Universität), 2023-
    * [Cynthia Kop](https://www.cs.ru.nl/~cynthiakop/index_en.html) Nijmegen (Radboud Universiteit Nijmegen), 2023-
    * [Bruno Lopes Vieira](http://www2.ic.uff.br/~bruno/) Niteroi (UFF), 2022-   
-   * [Mauricio Ayala-Rincón](https://mayalarincon.github.io) Brasília (UnB), 2022-  (chair)  
+   * [Mauricio Ayala-Rincón](https://mayalarincon.github.io) Brasília (UnB), 2022-  (Chair)  
    * [Daniele Nantes Sobrinho](http://www.mat.unb.br/~dnantes) Brasília (UnB), 2021-+1   
  
     
@@ -179,17 +179,17 @@ LSFA 2026 will be proposed for colocation with ([FSCD/FLoC 2026](https://fscd202
     *  [Eduardo Bonelli](https://ebonelli.github.io) Hoboken NJ (Stevens University), 2021-24
     *  [Amy Felty](https://www.site.uottawa.ca/~afelty/)  Ottawa (Université d'Ottawa) 2020-23  
     *  [Giselle Reis](https://gisellereis.com/) Qatar (Carnegie Mellon University in Qatar) 2020-23  
-    *  [Carlos Olarte Natal](https://sites.google.com/site/carlosolarte) (UFRN), 2018-22 (chair)  
+    *  [Carlos Olarte Natal](https://sites.google.com/site/carlosolarte) (UFRN), 2018-22 (Chair)  
     *  [Cláudia Nalon](https://cic.unb.br/~nalon/) Brasília (UnB), 2018-22  
     *  [Sandra Alves Porto](https://www.dcc.fc.up.pt/~sandra/Home/Home.html) (Universidade de Porto), 2017-21  
     *  [Maribel Fernández](https://nms.kcl.ac.uk/maribel.fernandez/) London (King's College London), 2018-21  
     *  [João Marcos](https://www.dimap.ufrn.br/~jmarcos/) Natal (UFRN), 2017-20  
     *  [Renata Wassermann](https://www.ime.usp.br/~renata/) São Paulo (USP), 2017-20  
     *  [Delia Kesner](https://www.irif.fr/~kesner/) Paris (U.Paris Diderot), 2015-18  
-    *  [Bruno Lopes Vieira](http://www2.ic.uff.br/~bruno/) Niteroi (UFF), 2015-18 (chair)  
+    *  [Bruno Lopes Vieira](http://www2.ic.uff.br/~bruno/) Niteroi (UFF), 2015-18 (Chair)  
     *  [Vivek Nigam](http://nigam.info/) João Pessoa (UFPB), 2015-18  
-    *  [Edward Hermann Haeusler](http://www-di.inf.puc-rio.br/~hermann/) Rio de Janeiro (PUC-Rio), 2007-17 (co-chair)  
-    *  [Mauricio Ayala-Rincón](https://mayalarincon.github.io) Brasília (UnB), 2007-17 (co-chair)  
+    *  [Edward Hermann Haeusler](http://www-di.inf.puc-rio.br/~hermann/) Rio de Janeiro (PUC-Rio), 2007-17 (Co-chair)  
+    *  [Mauricio Ayala-Rincón](https://mayalarincon.github.io) Brasília (UnB), 2007-17 (Co-chair)  
     *  [Elaine Gouvêa Pimentel](https://sites.google.com/site/elainepimentel) Natal (UFRN), 2007-17  
     *  [Mario R. Folhadela Benevides](https://mariorfb.github.io/) Rio de Janeiro (UFRJ), 2007-17  
     *  [Fairouz Dib Kamareddine](http://www.macs.hw.ac.uk/~fairouz/) Edinburgh (Heriot-Watt) 2007-15  
