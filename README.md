@@ -68,8 +68,12 @@ LSFA started as a workshop in 2006 in Natal (LSFA06), and its second and third e
   2024 ISs: Maribel Fernández, Marcelo Finger, Heloisa Camargo, Anderson Paiva Cruz
 
 * 2025 Program co-chairs: Haniel Barbosa and Christophe Ringeissen         
-  2025 ISs: Bruno Lopes, Yoni Zohar, and Temur Kutsia (joint CICM+LSFA Invited Speaker). 
+  2025 ISs: Bruno Lopes, Yoni Zohar, and Temur Kutsia (joint CICM+LSFA Invited Speaker).
 
+* 2026 Program co-chairs: Thaynara Arielly de Lima and Valeria de Paiva
+  2026 Portuguese Organisers: Alexandre Madeira and Manuel António Gonçalves Martins  
+  2026 ISs: TBD
+  
 ## Publications 
 ### Special Issues: 
 * Special Issue LSFA 2006, *J. of Algorithms* vol 62, 2007 ([toc at JA site](https://www.sciencedirect.com/journal/journal-of-algorithms/vol/62/issue/3))
