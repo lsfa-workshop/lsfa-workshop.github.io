@@ -138,6 +138,8 @@ LSFA 2026 will be proposed for colocation with [FSCD/FLoC 2026](https://fscd2026
 
 * Proc. LSFA 2024, EPTCS vol 421, 2025. ([Contents](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?LSFA2024), [doi](https://doi.org/10.4204/EPTCS.421))
 
+* Proc. LSFA 2025, EPTCS vol 430, 2025. ([Contents](https://arxiv.org/html/2509.23739/), [doi](https://doi.org/10.4204/EPTCS.430))
+
 # LSFA Bylaws 
 
 1.  LSFA is an annual meeting.
