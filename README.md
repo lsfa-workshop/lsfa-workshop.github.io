@@ -94,7 +94,7 @@ LSFA 2026 is colocated with [FSCD/FLoC 2026](https://fscd2026.github.io/) in Lis
 
 * Special Issue LSFA 2019+20, *Mathematical Structures in Computer Science*, vol 32(9), 2022 ([toc at MSCS site](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/issue/79A686FBD7148AF33D343996E61A9C5A))
 
-* Special Issue LSFA 2021+22, *Mathematical Strucutres in Computer Science*, Guest Eds. Daniele Nantes, Eduardo Bonelli.
+* Special Issue LSFA 2021+22, *Mathematical Strucutres in Computer Science*, vol 35, 2025 ([toc at MSCS site](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/collections/lsfa-2021-and-lsfa-2022))
 
 * Special Issue LSFA 2023+24, TBD, Guest Eds. Cynthia Kop, Daniel Lima Ventura.
   
