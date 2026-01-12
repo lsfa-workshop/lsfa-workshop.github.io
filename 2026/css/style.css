@@ -143,7 +143,7 @@ textarea.input {
 
 .section-bg {
   position: absolute;
-  filter: brightness(25%);
+  filter: brightness(70%);
   left: 0;
   top: 0;
   right: 0;
@@ -371,9 +371,9 @@ textarea.input {
   border: 0;
 }
 
-.transparent-navbar .dropdown-toggle {
+/* .transparent-navbar .dropdown-toggle {
   color =
-}
+} */
 
 /* Mobile nav */
 
@@ -818,16 +818,28 @@ a:focus .speaker{
   border:none;
   padding: 8px;
   opacity:80%; 
-  color:#999;
+  color:#cccc;
 }
-   #cfp button:hover {
-     background:#ee3d37;
-     color:#fff;
-   }
-   #cfp button a{
-     opacity:100%;
-     color:inherit;
-   }
+
+#cfp button:hover {
+  background:#ee3d37;
+  color:#fff;
+}
+
+#cfp button a{
+  opacity:100%;
+  color:inherit;
+}
+
+
+#cfp a:focus,
+#cfp a:active,
+#cfp a:focus-visible {
+  color: #ee3d37 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  outline: none;
+}
 
 .event {
   position: relative;
@@ -938,10 +950,10 @@ a:focus .speaker{
 }
 
 .event .event-content h3,h4{
-  color: #ccc}
+  color: #dddddd}
 
 .event .event-title {
-  color: #ccc;
+  color: #dddddd;
 }
 
 .download-btn {
@@ -956,11 +968,12 @@ a:focus .speaker{
 	Registration
 ===========================================================*/
 .section-bg~.container{
-color: #ccc;
+color: #dddddd;
 }
 
 .section-bg~.container a {
-  color: #999;
+  color: #cccc;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.4);
   -webkit-transition: 0.3s color;
   transition: 0.3s color;
 }
@@ -975,23 +988,23 @@ color: #ccc;
   background: #fff; 
 }
 
-color: #ccc;
-}
+/* color: #dddddd;
+} */
 
 .section-bg+.container>h3,h2,h1{
 color: #dd0a37;
 }
 
 .registration p{
-   color:#ccc;
+   color:#dddddd;
 }
 
 .registration h2{
-   color:#ccc;
+   color:#dddddd;
 }
 
 .registration h4{
-   color:#ccc;
+   color:#dddddd;
 }
 .registration button{
   background:rgb(55, 55, 55);
@@ -999,7 +1012,7 @@ color: #dd0a37;
   border:none;
   padding: 8px;
   opacity:80%; 
-  color:#999;
+  color:#cccc;
 }
    #registration .registration button:hover {
      background:#ee3d37;
@@ -1140,20 +1153,43 @@ color: #dd0a37;
   height: 110px;
 }
 
+
 /*=========================================================
-	CONTACT
+	VENUE
 ===========================================================*/
 
-#contact.section {
+#venue.section {
   padding-bottom: 0px;
 }
 
-.contact {
+#venue p{
+   color:#dddddd;
+}
+
+#venue a{
+   color:#cccc;
+   text-shadow: 0 1px 2px rgba(0,0,0,0.4);
+}
+
+#venue a:hover {
+     color:#ee3d37;
+}
+
+#venue a:focus,
+#venue a:active,
+#venue a:focus-visible {
+  color: #ee3d37 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  outline: none;
+}
+
+.venue {
   text-align: center;
   margin-bottom: 30px;
 }
 
-.contact h3 {
+.venue h3 {
   color: #dd0a37;
 }
 
@@ -1508,4 +1544,3 @@ a:focus{
     color: #000 !important;
     font-weight: bold;
 }
-
