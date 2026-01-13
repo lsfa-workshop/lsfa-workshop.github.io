@@ -3,7 +3,7 @@ Template Name: Event HTML TEMPLATE
 Author: yaminncco
 
 Colors:
-	Body 		  : #444
+	Body 		  : #444 (under blank background) #dddddd (under image background)
 	Headers 	: #0b0f28
 	Primary 	: #dd0a37
 	Dark 		  : #000
@@ -466,10 +466,18 @@ textarea.input {
     text-align: justify;
 }
 
-#about a:focus{
+/* #about a:focus{
     background: #000 !important;
     color:#fff !important;
     font-weight: bold;
+} */
+#about a:focus,
+#about a:active,
+#about a:focus-visible {
+  color: #ee3d37 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  outline: none;
 }
 
 #numbers {
@@ -831,7 +839,6 @@ a:focus .speaker{
   color:inherit;
 }
 
-
 #cfp a:focus,
 #cfp a:active,
 #cfp a:focus-visible {
@@ -839,6 +846,10 @@ a:focus .speaker{
   background: transparent !important;
   box-shadow: none !important;
   outline: none;
+}
+
+#cfp p {
+  color: #dddddd !important;
 }
 
 .event {
@@ -1014,18 +1025,22 @@ color: #dd0a37;
   opacity:80%; 
   color:#cccc;
 }
-   #registration .registration button:hover {
-     background:#ee3d37;
-     color:#fff;
-   }
-   #registration button a{
-     opacity:100%;
-     color:inherit;
-   }
+#registration .registration button:hover {
+  background:#ee3d37;
+  color:#fff;
+}
+#registration button a{
+  opacity:100%;
+  color:inherit;
+}
+#registration p{
+   color:#dddddd;
+}
 
 /*=========================================================
 	PROGRAM
 ===========================================================*/
+
 
 #program .accordion{
     display:flex;
@@ -1163,11 +1178,11 @@ color: #dd0a37;
 }
 
 #venue p{
-   color:#dddddd;
+   color:#444;
 }
 
 #venue a{
-   color:#cccc;
+   color:#333;
    text-shadow: 0 1px 2px rgba(0,0,0,0.4);
 }
 
