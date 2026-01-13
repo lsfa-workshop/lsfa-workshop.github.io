@@ -2,7 +2,7 @@
 
 
 
-The 20th International Workshop on Logical and Semantic Frameworks, with Applications (LSFA) will be held in Lisbon, Portugal as part of FLoC 2026.
+The 21st International Workshop on Logical and Semantic Frameworks, with Applications (LSFA) will be held in Lisbon, Portugal as part of FLoC 2026, and affiliated with FSCD.
 
 Logical and semantic frameworks are formal languages used to represent logics, languages and systems. These frameworks provide foundations for the formal specification of systems and programming languages, supporting tool development and reasoning.
 
