@@ -574,6 +574,7 @@ textarea.input {
   opacity:0.8;
 }
 
+
 .speaker:after {
   content: "";
   position: absolute;
@@ -604,6 +605,19 @@ a:focus .speaker{
   bottom: 60px;
   left: 0;
   right: 0;
+}
+
+.speaker {
+  height: 100%;
+}
+
+.speaker .speaker-content,
+.speaker .speaker-contentg {
+  min-height: 175px;
+}
+
+.col-md-4.col-sm-6 > a {
+  display: block;
 }
 
 .speaker .speaker-content {
@@ -1132,8 +1146,7 @@ color: #dd0a37;
 
 
 #program .speaker .speaker-content > h3 {
-    font-size: 20px;
-        
+    font-size: 20px;     
 }
 
 #program .speaker-modal .modal-body{
