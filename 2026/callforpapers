@@ -1,0 +1,57 @@
+----------------------------------------------------------------------------------------
+LSFA 2026 Announcement and First Call for Papers      
+
+21st International Symposium on Logical and Semantic Frameworks with Applications
+- LSFA 2026 -
+18 - 19 July 2026
+Lisbon, Portugal
+https://lsfa-workshop.github.io/2026/
+
+----------------------------------------------------------------------------------------
+
+Logical and semantic frameworks are formal languages used to represent logics, languages and systems. 
+These frameworks provide foundations for the formal specification of systems and programming languages, 
+supporting tool development and reasoning.
+We are inviting formal submissions on the following topics, but not limited to:
+
+Automated deduction
+Applications of logical and/or semantic frameworks
+Computational and logical properties of semantic frameworks
+Formal semantics of languages and systems
+Implementation of logical and/or semantic frameworks
+Lambda and combinatory calculi
+Logical aspects of computational complexity
+Logical frameworks
+Process calculi
+Proof theory
+Semantic frameworks
+Specification languages and meta-languages
+Type theory
+
+The program committee is chaired by Valeria de Paiva, Topos Institute, Berkeley and Thaynara de Lima, Federal University of Goiás, Goiânia.
+
+
+*** Formal Paper Submissions ***
+
+Contributions should be written in English and submitted in the form of:
+- full papers (with a maximum of 16 pages excluding references) or ; 
+- short papers (with a maximum of 6 pages excluding references). 
+
+They must be unpublished and not submitted simultaneously for publication elsewhere. 
+The papers should be prepared in latex using EPTCS style. 
+https://style.eptcs.org/
+The submission should be in the form of a PDF file uploaded to HotCRP.
+https://submissions.floc26.org/lsfa/
+If software or data is relevant to a paper, a link that provides access
+to the software/data must be provided to enable reproduction of results.
+
+Following LSFA traditions, besides Proceedings, we are considering 
+publishing a Special Issue LSFA 25+26 (more details regarding past 
+publications at https://lsfa-workshop.github.io/). 
+  
+*** Important Dates ***
+
+  - Abstract deadline:             March 30, 2026 
+  - Full paper deadline:           April 4, 2026 
+  - Notification of acceptance:    May 4, 2026
+  - Conference:                    July 18-19, 2026
