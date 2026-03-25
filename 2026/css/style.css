@@ -774,8 +774,15 @@ a:focus .speaker{
   padding: 30px;
 }
 
-.speaker-modal .speaker-modal-img>img {
+/* .speaker-modal .speaker-modal-img>img {
   width: 100%;
+} */
+
+.speaker-modal-img img {
+  max-width: 100%;
+  height: auto;
+  max-height: 300px; 
+  margin-bottom: 20px;
 }
 
 .speaker-modal .speaker-modal-content .speaker-name {
