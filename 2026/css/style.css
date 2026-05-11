@@ -1003,6 +1003,11 @@ a:focus .speaker{
   color: #444;
 }
 
+/* .invspeak-desc p + p {
+  text-indent: 1em;
+  margin-top: 0.5em;
+} */
+
 .compact-speaker .modal-dialog {
   width: 50%;
   max-width: 600px;
