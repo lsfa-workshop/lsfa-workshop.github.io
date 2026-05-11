@@ -850,7 +850,7 @@
                     </a>
                 </div>
                 <!-- speaker modal-->
-                <div id="diana_costa" class="speaker-modal modal fade">
+                <div id="diana_costa" class="speaker-modal modal fade"> <!-- optional compact-speaker class available here if title and abstract are still missing -->
                     <div class="modal-dialog">
                         <div class="modal-content">
                             <button type="button" class="speaker-modal-close" data-dismiss="modal"></button>
@@ -894,24 +894,28 @@
                     </a>
                 </div>
                 <!-- speaker modal-->
-                <div id="haniel_barbosa" class="speaker-modal modal fade compact-speaker">
+                <div id="haniel_barbosa" class="speaker-modal modal fade"> 
                     <div class="modal-dialog">
                         <div class="modal-content">
                             <button type="button" class="speaker-modal-close" data-dismiss="modal"></button>
                             <div class="modal-body">
                                 <div class="row">
-                                    <div class="col-md-5">
+                                    <div class="col-md-3">
                                         <div class="speaker-modal-img">
                                             <img src="./img/haniel_barbosa.jpg" alt="Haniel Barbosa">
                                         </div>
                                     </div>
-                                    <div class="col-md-6">
+                                    <div class="col-md-8">
                                         <div class="speaker-modal-content">
                                             <h2 class="speaker-name">Haniel Barbosa</h2>
                                             <div class="speaker-job">Universidade Federal de Minas Gerais, Brazil</div>
                                             <div class="speaker-website">
                                                 <h4>Website</h4>
                                                 <a href="https://hanielbarbosa.com/">https://hanielbarbosa.com/</a>
+                                            </div>
+                                            <div class="invspeak-desc">
+                                                <h2>A General Approach for SMT Proof Skeletons</h2>
+                                                <p><b>Abstract:</b> SMT solvers increasingly produce proof certificates to meet the trust requirements of safety-critical applications and to better integrate with proof assistants, but eagerly justifying solver inferences during solving can be a major performance bottleneck. Recent work mitigates this cost by emitting proof skeletons, but is limited by ignoring preprocessing, which is heavily used by solvers, and by relying on new ad-hoc proof formats and theory-specific tooling.</p> <p>In this talk we discuss a general approach for that limits the SMT proof skeletons to core SMT reasoning: preprocessing, clausification, and unannotated theory lemmas. Instead of theory-specific optimizations, we introduce three general techniques, iterative theory-last proof trimming, batched lemmas justifications, and parallelized justifications, that accelerate proof checking across theories using the general-purpose SMT solver cvc5.  Moreover, we also show how a crucial element of preprocessing, simplifying terms modulo a set of rewrite rules, can be omitted from the skeletons but justified via a translation of rules into the Egglog reasoning engine, which decides equivalence modulo the rules through equality saturation.</p> <p>Experiments on SMT-LIB benchmarks over EUF, LIA, and LRA show that the offline justification of theory lemmas leads to faster solving and competitive checking performance compared to eager proof production. And the offline justification of rewriting almost always succeeds and presents another viable option for SMT proof skeletons.</p>
                                             </div>
                                         </div>
                                     </div>
