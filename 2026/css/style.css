@@ -378,7 +378,14 @@ textarea.input {
 
 /* Mobile nav */
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 1299px) {
+   .navbar-header {
+    width: 100%;
+  }
+  .navbar-toggle {
+    display: block;
+    float: right;
+  }
   .main-nav {
     margin: 0px -15px;
     max-height: 0;
@@ -399,9 +406,6 @@ textarea.input {
   .main-nav li a:hover, .main-nav li a:focus, .main-nav li.active a {
     background-color: #ee3d37;
     color: #fff !important;
-  }
-  .navbar-toggle {
-    display: block;
   }
 }
 
@@ -1279,10 +1283,89 @@ color: #dd0a37;
   outline: none;
 } */
 
+/*=========================================================
+	ACCEPTED PAPERS
+===========================================================*/
+
+.accepted-paper {
+  min-height: 115px;
+  margin-bottom: 20px;
+  padding: 22px 24px;
+  background: #fff;
+  border-left: 5px solid #ee3d37;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.accepted-papers-intro {
+  text-align: center;
+  margin: -10px 0 30px;
+  color: #555;
+  font-size: 15px;
+}
+
+.accepted-paper:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+}
+
+.accepted-paper h4 {
+  margin: 0 0 10px;
+  color: #222;
+  font-size: 17px;
+  line-height: 1.35;
+  font-weight: 700;
+}
+
+.accepted-paper p {
+  margin: 0;
+  color: #666;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+/* Alternating accent colors */
+#accepted-papers .col-md-6:nth-of-type(4n+1) .accepted-paper {
+  border-left-color: #ee3d37;
+}
+
+#accepted-papers .col-md-6:nth-of-type(4n+2) .accepted-paper {
+  border-left-color: #faca3c;
+}
+
+#accepted-papers .col-md-6:nth-of-type(4n+3) .accepted-paper {
+  border-left-color: #53bdec;
+}
+
+#accepted-papers .col-md-6:nth-of-type(4n+4) .accepted-paper {
+  border-left-color: #5eac50;
+}
+
+.accepted-paper:hover h4 {
+  color: #ee3d37;
+}
+
+#accepted-papers .col-md-6:nth-of-type(4n+1) .accepted-paper:hover h4 {
+  color: #ee3d37;
+}
+
+#accepted-papers .col-md-6:nth-of-type(4n+2) .accepted-paper:hover h4 {
+  color: #faca3c;
+}
+
+#accepted-papers .col-md-6:nth-of-type(4n+3) .accepted-paper:hover h4 {
+  color: #53bdec;
+}
+
+#accepted-papers .col-md-6:nth-of-type(4n+4) .accepted-paper:hover h4 {
+  color: #5eac50;
+}
 
 /*=========================================================
 	PROGRAM
 ===========================================================*/
+
+
 
 
 #program .accordion{
