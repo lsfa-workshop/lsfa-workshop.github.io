@@ -1361,6 +1361,148 @@ color: #dd0a37;
   color: #5eac50;
 }
 
+.paper-link,
+.paper-link:hover,
+.paper-link:focus {
+  text-decoration: none;
+  color: inherit;
+}
+
+.accepted-paper {
+  cursor: pointer;
+}
+
+.paper-authors {
+  margin: 0;
+  color: #666;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.paper-more {
+  margin: 12px 0 0;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: #999;
+}
+
+.accepted-paper:hover .paper-more {
+  color: inherit;
+}
+
+/* Paper modal */
+
+.paper-modal .modal-dialog {
+  width: 70%;
+  max-width: 900px;
+  margin: 60px auto;
+}
+
+.paper-modal .modal-content {
+  border: none;
+  border-radius: 20px;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+  padding: 10px 15px;
+}
+
+.paper-modal .speaker-modal-close {
+  position: absolute;
+  right: -15px;
+  top: -15px;
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+  background-color: #dd0a37;
+  border-radius: 50%;
+  padding: 0;
+  color: #FFF;
+  border: none;
+  font-size: 24px;
+  z-index: 50;
+}
+
+.paper-modal .speaker-modal-close:focus {
+  background-color: #000 !important;
+  color: #FFF;
+}
+
+.paper-modal .speaker-modal-close:after {
+  content: "\f00d";
+  font-family: FontAwesome;
+}
+
+.paper-modal .modal-body {
+  padding: 35px 45px;
+}
+
+.paper-modal-content h2 {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 14px;
+  color: #222;
+  font-size: 30px;
+  line-height: 1.2;
+}
+
+.paper-modal-authors {
+  color: #666;
+  font-size: 17px;
+  line-height: 1.5;
+  margin-bottom: 28px;
+  border-left: 4px solid #ee3d37;
+  padding-left: 14px;
+}
+
+.paper-modal-abstract h4 {
+  margin-bottom: 12px;
+  font-size: 14px;
+  color: #dd0a37;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.paper-modal-abstract p {
+  line-height: 1.75;
+  font-size: 16px;
+  color: #444;
+  text-align: left;
+}
+
+@media only screen and (max-width: 767px) {
+  .paper-modal .modal-dialog {
+    width: 92%;
+    margin: 40px auto;
+  }
+
+  .paper-modal .modal-body {
+    padding: 28px 22px;
+  }
+
+  .paper-modal-content h2 {
+    font-size: 24px;
+  }
+
+  .paper-modal-authors {
+    font-size: 15px;
+  }
+
+  .paper-modal-abstract p {
+    font-size: 15px;
+  }
+
+  .paper-modal .speaker-modal-close {
+    right: -8px;
+    top: -8px;
+    width: 48px;
+    height: 48px;
+    line-height: 48px;
+  }
+}
+
 /*=========================================================
 	PROGRAM
 ===========================================================*/
