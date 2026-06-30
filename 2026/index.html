@@ -843,7 +843,18 @@
                     The following papers have been accepted for presentation at LSFA 2026.
                 </p>
 
-                <!-- Accepted paper cards: paste inside <div id="accepted-papers" ...>, replacing the current card-only snippet. -->
+                <div class="col-md-6">
+                    <a href="#paper_linearising_explicit_substitutions"
+                    data-toggle="modal"
+                    data-target="#paper_linearising_explicit_substitutions"
+                    class="paper-link">
+                        <div class="accepted-paper">
+                            <h4>Linearising Explicit Substitutions using Intersection Types</h4>
+                            <p class="paper-authors">Ana Jorge Almeida, Sandra Alves, Mário Florido</p>
+                        </div>
+                    </a>
+                </div>
+
                 <div class="col-md-6">
                     <a href="#paper_efficient_decision_procedures_for_rnmatrix_semantics" data-toggle="modal" data-target="#paper_efficient_decision_procedures_for_rnmatrix_semantics" class="paper-link">
                         <div class="accepted-paper">
@@ -999,9 +1010,29 @@
                         </div>
                     </a>
                 </div>
+                
+                <!-- paper modal -->
+                <div id="paper_linearising_explicit_substitutions" class="paper-modal modal fade" role="dialog">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <button type="button" class="speaker-modal-close" data-dismiss="modal"></button>
+                            <div class="modal-body">
+                                <div class="paper-modal-content">
+                                    <h2>Linearising Explicit Substitutions using Intersection Types</h2>
+                                    <div class="paper-modal-authors">
+                                        Ana Jorge Almeida, Sandra Alves, Mário Florido
+                                    </div>
+                                    <div class="paper-modal-abstract">
+                                        <h4>Abstract</h4>
+                                        <p>Term expansion was originally introduced in 2004 as a way to relate terms typed in an intersection type system with linear terms. Recently, new applications of term expansion include the relation of lambda-terms with terms typed in other substructural type systems, such as the relevant and the ordered type systems, and the use of quantitative types to relate the strongly normalising lambda-terms with weak linear terms that share the same normal form. Here we define a new term expansion for a calculus with explicit substitutions, using it to relate a lambda-calculus with explicit substitutions to Boudol's resource aware lambda-calculus with multiplicities, where function arguments have a possibly limited availability.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /paper modal -->
 
-                <!-- Paper modals: ideally paste these after the closing </div> of #accepted-papers, before the invited-talks row.
-                    This avoids disturbing the nth-of-type color selectors used by the paper cards. -->
                 <!-- paper modal -->
                 <div id="paper_efficient_decision_procedures_for_rnmatrix_semantics" class="paper-modal modal fade" role="dialog">
                     <div class="modal-dialog">
