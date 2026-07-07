@@ -378,7 +378,7 @@ textarea.input {
 
 /* Mobile nav */
 
-@media only screen and (max-width: 1299px) {
+@media only screen and (max-width: 1300px) {
    .navbar-header {
     width: 100%;
   }
@@ -1510,65 +1510,168 @@ color: #dd0a37;
 
 
 
-#program .accordion{
-    display:flex;
-    margin-right: 23px;
-}
-
-#program .card{
-    width: 32%;
-    border: solid;
+#program .accordion {
     display: flex;
-    margin-left: 5px;
-    border-radius:30px;
-    
+    justify-content: center;
+    align-items: stretch;
+    gap: 28px;
+    margin: 30px auto 0;
+    max-width: 1100px;
 }
-    #program .card .card-header{
-        background: #ee3d37;
-        text-align: center;
-        border: auto;    
-    }
 
-        #program .card .card-header h3{
-            color: #fff;  
-            margin-top: 15px;
-        }
+#program .card {
+    width: 48%;
+    max-width: 520px;
+    border: 1px solid #e6e6e6;
+    border-radius: 14px;
+    overflow: hidden;
+    background: #fff;
+    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.08);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
 
-    #program .card .card-body{
-        border: none;    
-        padding: 1rem 0 1rem 0;
-    }
+#program .card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.12);
+}
+
+#program .card a {
+    display: block;
+    color: inherit;
+    text-decoration: none;
+}
+
+#program .card .card-header {
+    background: #ee3d37;
+    text-align: center;
+    padding: 14px 20px;
+}
+
+#program .card .card-header h3 {
+    color: #fff;
+    margin: 0;
+    font-size: 24px;
+}
+
+#program .card .card-body {
+    border: none;
+    padding: 18px 22px 22px;
+}
 
 #program .schedule ul {
     list-style: none;
-    margin-left:15px;
-    
-}
-#program .schedule ul li{
-    margin-top: 2px;
-}
-#program .schedule ul li .sched-event{
- 	display: grid;
-	grid-template-columns: 31% 69%;
+    margin: 0;
+    padding: 0;
 }
 
+#program .schedule ul li {
+    margin-top: 0;
+    padding: 9px 0;
+    border-bottom: 1px solid #f0f0f0;
+}
 
+#program .schedule ul li:last-child {
+    border-bottom: none;
+}
 
-#program .schedule ul li span{
+#program .schedule ul li .sched-event {
+    display: grid;
+    grid-template-columns: 115px 1fr;
+    column-gap: 16px;
+    align-items: start;
+}
+
+#program .schedule ul li span {
+    font-weight: normal;
+}
+
+#program .schedule ul li .event-hour {
+    color: #ee3d37;
     font-weight: bold;
-}
-#program .schedule ul li .event-hour{
-    text-align: center;
-	padding-left: 0px;
+    text-align: left;
     word-wrap: break-word;
-    
 }
-#program .schedule ul li .event-desc{
-    /*! position:absolute; */
-	/*! left: 40%; */
-    text-align: center;
+
+#program .schedule ul li .event-desc {
+    color: #333;
+    text-align: left;
     word-wrap: break-word;
-    margin-left: 15px;
+    margin-left: 0;
+    line-height: 1.45;
+}
+
+#program .speaker .speaker-content > h3 {
+    font-size: 20px;
+}
+
+#program .speaker-modal .modal-body {
+    padding: 10px;
+}
+
+#program .speaker-modal .accordion {
+    display: block;
+    margin: 0;
+    max-width: none;
+}
+
+#program .speaker-modal .card {
+    width: 100%;
+    max-width: none;
+    margin-left: 0;
+    box-shadow: none;
+}
+
+#program .speaker-modal .card:hover {
+    transform: none;
+    box-shadow: none;
+}
+
+#program .speaker-modal .card .card-header {
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+
+#program .speaker-modal .schedule {
+    margin: 0 10px;
+}
+
+#program .speaker-modal .schedule ul li .sched-event {
+    display: grid;
+    grid-template-columns: 130px 1fr;
+    column-gap: 18px;
+}
+
+#program .speaker-modal .schedule ul li .event-desc {
+    text-align: justify;
+    word-wrap: break-word;
+    margin-left: 0;
+}
+
+@media only screen and (max-width: 767px) {
+    #program .accordion {
+        flex-direction: column;
+        gap: 22px;
+        margin-top: 24px;
+    }
+
+    #program .card {
+        width: 100%;
+        max-width: none;
+    }
+
+    #program .schedule ul li .sched-event,
+    #program .speaker-modal .schedule ul li .sched-event {
+        grid-template-columns: 1fr;
+        row-gap: 4px;
+    }
+
+    #program .schedule ul li .event-hour {
+        text-align: left;
+    }
+
+    #program .speaker-modal .schedule ul li .event-desc {
+        text-align: left;
+    }
 }
 
 
@@ -1576,30 +1679,51 @@ color: #dd0a37;
     font-size: 20px;     
 }
 
-#program .speaker-modal .modal-body{
-    padding: 10px;
+#program .speaker-modal .modal-content {
+    border: none;
+    border-radius: 18px;
+    overflow: visible;
 }
+
+#program .speaker-modal .modal-body{
+    /* padding: 10px; */
+    padding: 0;
+  }
 
 #program .speaker-modal .accordion{
     display:block;
     margin-right: 23px;
 }
 
-#program .speaker-modal .card{
-    margin-left: 0px;
+#program .speaker-modal .card {
     width: 100%;
-    
+    max-width: none;
+    margin-left: 0;
+    border: 1px solid #e6e6e6;
+    border-radius: 18px;
+    overflow: hidden;
+    box-shadow: none;
 }
-    #program .speaker-modal .card .card-header{
+
+
+    /* #program .speaker-modal .card .card-header{
         border-top-left-radius: 28px;
         border-top-right-radius: 28px;
+    } */
 
-    }
+    #program .speaker-modal .card .card-header {
+    border-radius: 18px 18px 0 0;
+}
 
-    #program .speaker-modal .schedule{
+    /* #program .speaker-modal .schedule{
         margin-left: 10px;
         margin-right: 10px;
-    }
+    } */
+
+    #program .speaker-modal .schedule {
+    margin: 0;
+    padding: 22px 36px 28px;
+}
 
     #program .speaker-modal .schedule ul li .sched-event{
         display: grid;
@@ -1613,6 +1737,13 @@ color: #dd0a37;
         word-wrap: break-word;
         margin-left: 15px;
     }
+
+#program #invited-talks,
+#program #accepted-papers,
+#program #committees {
+    margin-top: 80px;
+}
+  
 /*=========================================================
 	SPONSORS
 ===========================================================*/
