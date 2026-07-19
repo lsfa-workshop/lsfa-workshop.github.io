@@ -72,7 +72,7 @@ LSFA started as a workshop in 2006 in Natal (LSFA06), and its second and third e
 
 * 2026 Program co-chairs: Thaynara Arielly de Lima and Valeria de Paiva
   2026 Portuguese Organisers: Alexandre Madeira and Manuel António Gonçalves Martins  
-  2026 ISs: TBD
+  2026 ISs: Sandra Alves, Diana Costa, Haniel Barbosa, Santiago Escobar
   
 ## Publications 
 ### Special Issues: 
@@ -137,6 +137,8 @@ LSFA started as a workshop in 2006 in Natal (LSFA06), and its second and third e
 * Proc. LSFA 2024, EPTCS vol 421, 2025. ([Contents](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?LSFA2024), [doi](https://doi.org/10.4204/EPTCS.421))
 
 * Proc. LSFA 2025, EPTCS vol 430, 2025. ([Contents](https://arxiv.org/html/2509.23739/), [doi](https://doi.org/10.4204/EPTCS.430))
+
+* Proc. LSFA 2026, EPTCS vol 449, 2026. ([Contents](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?LFSA2026),[doi](https://doi.org/10.4204/EPTCS.449)) 
 
 # LSFA Bylaws 
 
