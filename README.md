@@ -71,6 +71,7 @@ LSFA started as a workshop in 2006 in Natal (LSFA06), and its second and third e
   2025 ISs: Bruno Lopes, Yoni Zohar, and Temur Kutsia (joint CICM+LSFA Invited Speaker).
 
 * 2026 Program co-chairs: Thaynara Arielly de Lima and Valeria de Paiva
+  
   2026 Portuguese Organisers: Alexandre Madeira and Manuel António Gonçalves Martins  
   2026 ISs: Sandra Alves, Diana Costa, Haniel Barbosa, Santiago Escobar
   
