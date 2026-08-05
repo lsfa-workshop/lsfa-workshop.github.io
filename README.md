@@ -168,9 +168,9 @@ LSFA started as a workshop in 2006 in Natal (LSFA06), and its second and third e
 ## Composition:
 
 1. **Current SC members**
-   * [Valeria de Paiva]() (Topos Institute), 2026-
+   * [Valeria de Paiva](https://topos.institute/people/valeria-de-paiva/) (Topos Institute), 2026-
    * [Sandra Alves Porto](https://www.dcc.fc.up.pt/~sandra/Home/Home.html) Porto (Universidade do Porto), 2026-
-   * [Thaynara Arielly de Lima]() Goiânia (Universidade Federal de Goiás), 2026-
+   * [Thaynara Arielly de Lima](https://thaynaradelima.github.io/) Goiânia (Universidade Federal de Goiás), 2026-
    * [Haniel Barbosa](https://hanielbarbosa.com/) Belo Horizonte (Universidade Federal de Minas Gerais), 2025-
    * [Christophe Ringeissen](https://members.loria.fr/CRingeissen/) Nancy (Inria-LORIA), 2025- 
    * [Daniel Lima Ventura](https://ww2.inf.ufg.br/~daniel/) Goiânia (Universidade Federal de Goiás), 2024-
@@ -179,26 +179,26 @@ LSFA started as a workshop in 2006 in Natal (LSFA06), and its second and third e
 2. **Former SC members**
     *  [Temur Kutsia](https://www3.risc.jku.at/people/tkutsia/) Linz (RISC/Johannes Kepler Universität), 2023-26
     *  [Cynthia Kop](https://www.cs.ru.nl/~cynthiakop/index_en.html) Nijmegen (Radboud Universiteit Nijmegen), 2023-26
-    *  [Bruno Lopes Vieira](http://www2.ic.uff.br/~bruno/) Niterói (UFF), 2022-25   
-    *  [Daniele Nantes Sobrinho](http://www.mat.unb.br/~dnantes) Brasília (UnB), 2021-25  
+    *  [Bruno Lopes Vieira](http://www2.ic.uff.br/~bruno/) Niterói (Universidade Federal Fluminense), 2022-25   
+    *  [Daniele Nantes Sobrinho](http://www.mat.unb.br/~dnantes) Brasília (Universidade de Brasília), 2021-25  
     *  [Eduardo Bonelli](https://ebonelli.github.io) Hoboken NJ (Stevens University), 2021-24
     *  [Amy Felty](https://www.site.uottawa.ca/~afelty/)  Ottawa (Université d'Ottawa) 2020-23  
     *  [Giselle Reis](https://gisellereis.com/) Qatar (Carnegie Mellon University in Qatar) 2020-23  
-    *  [Carlos Olarte Natal](https://sites.google.com/site/carlosolarte) Natal (UFRN), 2018-22 (Chair)  
-    *  [Cláudia Nalon](https://cic.unb.br/~nalon/) Brasília (UnB), 2018-22  
+    *  [Carlos Olarte Natal](https://sites.google.com/site/carlosolarte) Natal (Universidade Federal de Rio Grande do Norte), 2018-22 (Chair)  
+    *  [Cláudia Nalon](https://cic.unb.br/~nalon/) Brasília (Universidade de Brasília), 2018-22  
     *  [Sandra Alves Porto](https://www.dcc.fc.up.pt/~sandra/Home/Home.html) Porto (Universidade do Porto), 2017-21  
     *  [Maribel Fernández](https://nms.kcl.ac.uk/maribel.fernandez/) London (King's College London), 2018-21  
-    *  [João Marcos](https://www.dimap.ufrn.br/~jmarcos/) Natal (UFRN), 2017-20  
-    *  [Renata Wassermann](https://www.ime.usp.br/~renata/) São Paulo (USP), 2017-20  
-    *  [Delia Kesner](https://www.irif.fr/~kesner/) Paris (U.Paris Diderot), 2015-18  
-    *  [Bruno Lopes Vieira](http://www2.ic.uff.br/~bruno/) Niteroi (UFF), 2015-18 (Chair)  
-    *  [Vivek Nigam](http://nigam.info/) João Pessoa (UFPB), 2015-18  
+    *  [João Marcos](https://www.dimap.ufrn.br/~jmarcos/) Natal (Universidade Federal de Rio Grande do Norte), 2017-20  
+    *  [Renata Wassermann](https://www.ime.usp.br/~renata/) São Paulo (Universidade de São Paulo), 2017-20  
+    *  [Delia Kesner](https://www.irif.fr/~kesner/) Paris (Université Paris Diderot), 2015-18  
+    *  [Bruno Lopes Vieira](http://www2.ic.uff.br/~bruno/) Niteroi (Universidade Federal Fluminense), 2015-18 (Chair)  
+    *  [Vivek Nigam](http://nigam.info/) João Pessoa (Universidade Federal de Paraíba), 2015-18  
     *  [Edward Hermann Haeusler](http://www-di.inf.puc-rio.br/~hermann/) Rio de Janeiro (PUC-Rio), 2007-17 (Co-chair)  
     *  [Mauricio Ayala-Rincón](https://mayalarincon.github.io) Brasília (UnB), 2007-17 (Co-chair), Goiânia (UFG) 2022-26 (Chair)  
-    *  [Elaine Gouvêa Pimentel](https://sites.google.com/site/elainepimentel) Natal (UFRN), 2007-17  
-    *  [Mario R. Folhadela Benevides](https://mariorfb.github.io/) Rio de Janeiro (UFRJ), 2007-17  
+    *  [Elaine Gouvêa Pimentel](https://sites.google.com/site/elainepimentel) Natal (Universidade Federal de Rio Grande do Norte), 2007-17  
+    *  [Mario R. Folhadela Benevides](https://mariorfb.github.io/) Rio de Janeiro (Universidade Federal de Rio de Janeiro), 2007-17  
     *  [Fairouz Dib Kamareddine](http://www.macs.hw.ac.uk/~fairouz/) Edinburgh (Heriot-Watt) 2007-15  
-    *  [Ana Teresa de Castro Martins](https://cc.ufc.br/curso/corpo-docente/ana/) Fortaleza (UFC) 2007-14  
+    *  [Ana Teresa de Castro Martins](https://cc.ufc.br/curso/corpo-docente/ana/) Fortaleza (Universidade Federal de Ceara) 2007-14  
     
 4.  The Steering Committee selects its chair(s).  
 5.  Each Steering Committee member serves until the third subsequent conference. At most, one-third of the SC members can be renewed at each conference. To keep this balance, exceptionally and with the approval of the General Assembly, it is possible to extend the term of some of the members of the SC for one year.  
