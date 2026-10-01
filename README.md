@@ -3,12 +3,12 @@
 # About LSFA
 LSFA is an International Symposium on Logical and Semantic Frameworks with Applications, launched in 2006. Logical and semantic frameworks are formal languages that represent logics and languages, as well as computational, AI, and deductive systems. These frameworks provide mathematical foundations for the formal specification of systems and programming languages, supporting tool development and reasoning.
 
-The LSFA series is a platform that fosters collaboration, bringing together theoreticians and practitioners. LSFA aims to promote techniques and results from the theoretical side, ranging from well-established ones such as lambda calculus and type theory to state-of-the-art ones such as machine learning, and provide feedback on integrating, implementing and using such methods and results from the practical side.
+The LSFA series is a platform that fosters collaboration, bringing together theoreticians and practitioners. LSFA aims to promote techniques and results from the theoretical side, ranging from well-established ones such as lambda calculus and type theory to state-of-the-art ones such as machine learning, and to provide feedback on integrating, implementing, and using such methods and results from the practical side.
 
 LSFA started as a workshop in 2006 in Natal (LSFA06), and its second and third editions were held in Ouro Preto ([LSFA07](https://mat.unb.br/~ayala/lsfa2007/welcome.html)) and Salvador ([LSFA08](https://dblp.org/db/journals/entcs/entcs247.html)), always as a satellite event to the Brazilian Symposium on Formal Methods (SBMF). In 2009 ([LSFA09](http://lsfa09.cic.unb.br/index.html)), it was held as a satellite event of [RDP](http://rdp09.cic.unb.br/) in Brasília, and subsequently, LSFA was a satellite event of ICTAC in Natal ([LSFA10](https://dblp.org/db/journals/entcs/entcs269.html)). Since its sixth edition, LSFA was held alone in Belo Horizonte ([LSFA11](https://arxiv.org/html/1203.5423)), Rio de Janeiro and Niteroi ([LSFA12](https://arxiv.org/html/1303.7136v1)), São Paulo ([LSFA13](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/305/suppl/C)), Brasília ([LSFA14](http://lsfa2014.cic.unb.br/)) and then in Natal ([LSFA15](https://www.mat.ufrn.br/~LSFA2015/LSFA2015/Welcome.html)) as part of NAT@Logic 2015. The eleventh edition, ([LSFA16](https://dblp.org/db/journals/entcs/entcs332.html)), was held as a satellite event of [FSCD 2016](http://fscd2016.dcc.fc.up.pt/) in Porto, the twelfth edition, ([LSFA17](http://lsfa2017.cic.unb.br/)), in Brasília, as a satellite of the collocated conferences [Tableaux](http://www.tableaux-ar.org/)+[FroCoS](http://frocos.cs.uiowa.edu/)+[ITP](https://itp2016.inria.fr/history/), the thirteenth edition, ([LSFA18](http://lia.ufc.br/~lsfa2018/)), was held alone in Fortaleza, the fourteenth edition, ([LSFA19](https://sites.google.com/view/lsfa2019)), as a satellite of [CADE 2019](https://www.mat.ufrn.br/cade-27/) in Natal, and the fifteenth edition, ([LSFA20](http://lsfa2020.ufba.br/)), took place in Bahia with the First Brazilian Workshop on Logic [WBL](http://lsfa2020.ufba.br/wbl.html). The Sixteen edition, ([LSFA2021](https://mat.unb.br/lsfa2021/)), was held as a satellite of [FSCD2021](https://fscd2021.dc.uba.ar), organised in Buenos Aires, online. The Seventeenth edition ([LSFA2022](https://lsfa2022.github.io)) took place in Belo Horizonte. In 2023, the Eighteenth edition, ([LSFA2023](https://sites.google.com/ufg.br/lsfa2023)) was affiliated to ([FSCD2023](https://easyconferences.eu/fscd2023/)) in Rome. In 2024, the Nineteenth edition ([LSFA 2024](https://sites.google.com/ufg.br/lsfa2024)) was held in Goiânia.  The twentieth edition ([LSFA 2025](https://lsfa-workshop.github.io/2025)) was co-located with [CICM](https://cicm-conference.org/cicm.php) in Brasília. The twenty-first edition ([LSFA 2026](https://lsfa-workshop.github.io/2026/)) was affiliated with FSCD/FLoC in Lisbon.
 
 ##  LSFA 2027
-Will be organised by Sandro Márcio da Silva Preto (Universidade Federal do ABC).
+Will be organized by Sandro Márcio da Silva Preto (Universidade Federal do ABC).
 
 ## List of Program Co-Chairs and Invited Speakers 
 * 2006 Program co-chairs: Christiano Braga, Edward Hermann Haeusler, and Mauricio Ayala-Rincón  
@@ -59,7 +59,7 @@ Will be organised by Sandro Márcio da Silva Preto (Universidade Federal do ABC)
 * 2021 Program co-chairs: Mauricio Ayala-Rincón and Eduardo Bonelli   
   2021 ISs: Alejandro Díaz-Caro, Alexandra Silva, and Giulio Guerrieri
   
-* 2022 Program co-chairs: Daniele Nantes Sobrinho, and Pascal Fontaine   
+* 2022 Program co-chairs: Daniele Nantes Sobrinho and Pascal Fontaine   
   2022 ISs: Ciro Russo, Claudia Nalon. 
  
 * 2023 Program co-chairs: Temur Kutsia and Daniel Lima Ventura      
@@ -72,7 +72,7 @@ Will be organised by Sandro Márcio da Silva Preto (Universidade Federal do ABC)
   2025 ISs: Bruno Lopes, Yoni Zohar, and Temur Kutsia (joint CICM+LSFA Invited Speaker).
 
 * 2026 Program co-chairs: Thaynara Arielly de Lima and Valeria de Paiva <br>
-  2026 Portuguese Organisers: Alexandre Madeira and Manuel António Gonçalves Martins <br>
+  2026 Portuguese Organizers: Alexandre Madeira and Manuel António Gonçalves Martins <br>
   2026 ISs: Sandra Alves, Diana Costa, Haniel Barbosa, Santiago Escobar
   
 ## Publications 
@@ -150,7 +150,7 @@ Will be organised by Sandro Márcio da Silva Preto (Universidade Federal do ABC)
 3.  There will be a steering committee (SC) whose composition and function are specified in the next section.
 4.  There will be a program committee (PC), which is solely responsible for the scientific contents of the program for each LSFA.
 5.  There will be a meeting committee (MC) whose chairman(s) is(are) responsible for the local arrangements of the meeting and solely financially responsible for the conference it is organizing.
-6.  Nomination for the LSFA local organization and site should be submitted to SC chair(s) four weeks before the conference.
+6.  Nomination for the LSFA local organization and site should be submitted to the SC chair(s) four weeks before the conference.
 7.  The
       * Program Committee Chairperson,
       * Meeting Chairperson,
@@ -182,24 +182,24 @@ Will be organised by Sandro Márcio da Silva Preto (Universidade Federal do ABC)
     *  [Cynthia Kop](https://www.cs.ru.nl/~cynthiakop/index_en.html) Nijmegen (Radboud Universiteit Nijmegen), 2023-26
     *  [Bruno Lopes Vieira](http://www2.ic.uff.br/~bruno/) Niterói (Universidade Federal Fluminense), 2022-25   
     *  [Daniele Nantes Sobrinho](http://www.mat.unb.br/~dnantes) Brasília (Universidade de Brasília), 2021-25  
-    *  [Eduardo Bonelli](https://ebonelli.github.io) Hoboken NJ (Stevens University), 2021-24
+    *  [Eduardo Bonelli](https://ebonelli.github.io) Hoboken NJ (Stevens Institute of Technology), 2021-24
     *  [Amy Felty](https://www.site.uottawa.ca/~afelty/)  Ottawa (Université d'Ottawa) 2020-23  
     *  [Giselle Reis](https://gisellereis.com/) Qatar (Carnegie Mellon University in Qatar) 2020-23  
-    *  [Carlos Olarte Natal](https://sites.google.com/site/carlosolarte) Natal (Universidade Federal de Rio Grande do Norte), 2018-22 (Chair)  
+    *  [Carlos Olarte Natal](https://sites.google.com/site/carlosolarte) Natal (Universidade Federal do Rio Grande do Norte), 2018-22 (Chair)  
     *  [Cláudia Nalon](https://cic.unb.br/~nalon/) Brasília (Universidade de Brasília), 2018-22  
     *  [Sandra Alves Porto](https://www.dcc.fc.up.pt/~sandra/Home/Home.html) Porto (Universidade do Porto), 2017-21  
     *  [Maribel Fernández](https://nms.kcl.ac.uk/maribel.fernandez/) London (King's College London), 2018-21  
-    *  [João Marcos](https://www.dimap.ufrn.br/~jmarcos/) Natal (Universidade Federal de Rio Grande do Norte), 2017-20  
+    *  [João Marcos](https://www.dimap.ufrn.br/~jmarcos/) Natal (Universidade Federal do Rio Grande do Norte), 2017-20  
     *  [Renata Wassermann](https://www.ime.usp.br/~renata/) São Paulo (Universidade de São Paulo), 2017-20  
     *  [Delia Kesner](https://www.irif.fr/~kesner/) Paris (Université Paris Diderot), 2015-18  
-    *  [Bruno Lopes Vieira](http://www2.ic.uff.br/~bruno/) Niteroi (Universidade Federal Fluminense), 2015-18 (Chair)  
-    *  [Vivek Nigam](http://nigam.info/) João Pessoa (Universidade Federal de Paraíba), 2015-18  
+    *  [Bruno Lopes Vieira](http://www2.ic.uff.br/~bruno/) Niterói (Universidade Federal Fluminense), 2015-18 (Chair)  
+    *  [Vivek Nigam](http://nigam.info/) João Pessoa (Universidade Federal da Paraíba), 2015-18  
     *  [Edward Hermann Haeusler](http://www-di.inf.puc-rio.br/~hermann/) Rio de Janeiro (PUC-Rio), 2007-17 (Co-chair)  
     *  [Mauricio Ayala-Rincón](https://mayalarincon.github.io) Brasília (UnB), 2007-17 (Co-chair), Goiânia (UFG) 2022-26 (Chair)  
-    *  [Elaine Gouvêa Pimentel](https://sites.google.com/site/elainepimentel) Natal (Universidade Federal de Rio Grande do Norte), 2007-17  
+    *  [Elaine Gouvêa Pimentel](https://sites.google.com/site/elainepimentel) Natal (Universidade Federal do Rio Grande do Norte), 2007-17  
     *  [Mario R. Folhadela Benevides](https://mariorfb.github.io/) Rio de Janeiro (Universidade Federal de Rio de Janeiro), 2007-17  
     *  [Fairouz Dib Kamareddine](http://www.macs.hw.ac.uk/~fairouz/) Edinburgh (Heriot-Watt) 2007-15  
-    *  [Ana Teresa de Castro Martins](https://cc.ufc.br/curso/corpo-docente/ana/) Fortaleza (Universidade Federal de Ceara) 2007-14  
+    *  [Ana Teresa de Castro Martins](https://cc.ufc.br/curso/corpo-docente/ana/) Fortaleza (Universidade Federal do Ceará) 2007-14  
     
 4.  The Steering Committee selects its chair(s).  
 5.  Each Steering Committee member serves until the third subsequent conference. At most, one-third of the SC members can be renewed at each conference. To keep this balance, exceptionally and with the approval of the General Assembly, it is possible to extend the term of some of the members of the SC for one year.  
@@ -213,5 +213,5 @@ Will be organised by Sandro Márcio da Silva Preto (Universidade Federal do ABC)
 4.  Act as liaison with other conferences and workshops.
 5.  Call and organize the General Assembly.
 6.  Organize the election of new Steering Committee members.
-7.  Explore technical/organizational supports for non-local resources.
+7.  Explore technical/organizational support for non-local resources.
 8.  Maintain an official mailing list and records of the previous meetings.
