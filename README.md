@@ -7,7 +7,8 @@ The LSFA series is a platform that fosters collaboration, bringing together theo
 
 LSFA started as a workshop in 2006 in Natal (LSFA06), and its second and third editions were held in Ouro Preto ([LSFA07](https://mat.unb.br/~ayala/lsfa2007/welcome.html)) and Salvador ([LSFA08](https://dblp.org/db/journals/entcs/entcs247.html)), always as a satellite event to the Brazilian Symposium on Formal Methods (SBMF). In 2009 ([LSFA09](http://lsfa09.cic.unb.br/index.html)), it was held as a satellite event of [RDP](http://rdp09.cic.unb.br/) in Brasília, and subsequently, LSFA was a satellite event of ICTAC in Natal ([LSFA10](https://dblp.org/db/journals/entcs/entcs269.html)). Since its sixth edition, LSFA was held alone in Belo Horizonte ([LSFA11](https://arxiv.org/html/1203.5423)), Rio de Janeiro and Niteroi ([LSFA12](https://arxiv.org/html/1303.7136v1)), São Paulo ([LSFA13](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/305/suppl/C)), Brasília ([LSFA14](http://lsfa2014.cic.unb.br/)) and then in Natal ([LSFA15](https://www.mat.ufrn.br/~LSFA2015/LSFA2015/Welcome.html)) as part of NAT@Logic 2015. The eleventh edition, ([LSFA16](https://dblp.org/db/journals/entcs/entcs332.html)), was held as a satellite event of [FSCD 2016](http://fscd2016.dcc.fc.up.pt/) in Porto, the twelfth edition, ([LSFA17](http://lsfa2017.cic.unb.br/)), in Brasília, as a satellite of the collocated conferences [Tableaux](http://www.tableaux-ar.org/)+[FroCoS](http://frocos.cs.uiowa.edu/)+[ITP](https://itp2016.inria.fr/history/), the thirteenth edition, ([LSFA18](http://lia.ufc.br/~lsfa2018/)), was held alone in Fortaleza, the fourteenth edition, ([LSFA19](https://sites.google.com/view/lsfa2019)), as a satellite of [CADE 2019](https://www.mat.ufrn.br/cade-27/) in Natal, and the fifteenth edition, ([LSFA20](http://lsfa2020.ufba.br/)), took place in Bahia with the First Brazilian Workshop on Logic [WBL](http://lsfa2020.ufba.br/wbl.html). The Sixteen edition, ([LSFA2021](https://mat.unb.br/lsfa2021/)), was held as a satellite of [FSCD2021](https://fscd2021.dc.uba.ar), organised in Buenos Aires, online. The Seventeenth edition ([LSFA2022](https://lsfa2022.github.io)) took place in Belo Horizonte. In 2023, the Eighteenth edition, ([LSFA2023](https://sites.google.com/ufg.br/lsfa2023)) was affiliated to ([FSCD2023](https://easyconferences.eu/fscd2023/)) in Rome. In 2024, the Nineteenth edition ([LSFA 2024](https://sites.google.com/ufg.br/lsfa2024)) was held in Goiânia.  The twentieth edition ([LSFA 2025](https://lsfa-workshop.github.io/2025)) was co-located with [CICM](https://cicm-conference.org/cicm.php) in Brasília. The twenty-first edition ([LSFA 2026](https://lsfa-workshop.github.io/2026/)) was affiliated with FSCD/FLoC in Lisbon.
 
-##  LSFA 2027 TBD.   
+##  LSFA 2027
+Will be organised by Sandro Márcio da Silva Preto (Universidade Federal do ABC).
 
 ## List of Program Co-Chairs and Invited Speakers 
 * 2006 Program co-chairs: Christiano Braga, Edward Hermann Haeusler, and Mauricio Ayala-Rincón  
@@ -94,11 +95,11 @@ LSFA started as a workshop in 2006 in Natal (LSFA06), and its second and third e
 
 * Special Issue LSFA 2019+20, *Mathematical Structures in Computer Science*, vol 32(9), 2022 ([toc at MSCS site](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/issue/79A686FBD7148AF33D343996E61A9C5A))
 
-* Special Issue LSFA 2021+22, *Mathematical Strucutres in Computer Science*, vol 35, 2025 ([toc at MSCS site](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/collections/lsfa-2021-and-lsfa-2022))
+* Special Issue LSFA 2021+22, *Mathematical Structures in Computer Science*, vol 35, 2025 ([toc at MSCS site](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/collections/lsfa-2021-and-lsfa-2022))
 
-* Special Issue LSFA 2023+24, TBD, Guest Eds. Cynthia Kop, Daniel Lima Ventura.
+* Special Issue LSFA 2023+24, *Mathematical Structures in Computer Science* now an Episciences journal (Diamond Access), Guest Eds. Cynthia Kop, Daniel Lima Ventura.
   
-* Special Issue LSFA 2025+26, TBD, Buest Eds. TBD.
+* Special Issue LSFA 2025+26, TBD, Guest Eds. TBD.
   
 ### Proceedings: 
 
@@ -170,8 +171,8 @@ LSFA started as a workshop in 2006 in Natal (LSFA06), and its second and third e
 1. **Current SC members**
    * [Valeria de Paiva](https://topos.institute/people/valeria-de-paiva/) (Topos Institute), 2026-
    * [Sandra Alves Porto](https://www.dcc.fc.up.pt/~sandra/Home/Home.html) Porto (Universidade do Porto), 2026-
-   * [Thaynara Arielly de Lima](https://thaynaradelima.github.io/) Goiânia (Universidade Federal de Goiás), 2026-
-   * [Haniel Barbosa](https://hanielbarbosa.com/) Belo Horizonte (Universidade Federal de Minas Gerais), 2025-
+   * [Thaynara Arielly de Lima](https://thaynaradelima.github.io/) Goiânia (Universidade Federal de Goiás), 2026-  (Co-chair)
+   * [Haniel Barbosa](https://hanielbarbosa.com/) Belo Horizonte (Universidade Federal de Minas Gerais), 2025-  (Co-chair)
    * [Christophe Ringeissen](https://members.loria.fr/CRingeissen/) Nancy (Inria-LORIA), 2025- 
    * [Daniel Lima Ventura](https://ww2.inf.ufg.br/~daniel/) Goiânia (Universidade Federal de Goiás), 2024-
    * [Maribel Fernández](https://nms.kcl.ac.uk/maribel.fernandez/) London (King's College London), 2024-  
