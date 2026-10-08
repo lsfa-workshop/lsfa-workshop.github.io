@@ -2,7 +2,8 @@
 
 
 
-The 22st International Symposium on Logical and Semantic Frameworks, with Applications (LSFA) will be held in ......
+The 22st International Symposium on Logical and Semantic Frameworks, with Applications (LSFA) will be held in 
+from the 22nd to the 24th September 2027, under the organization of Sandro Márcio da Silva Preto (Universidade Federal do ABC).
 
 Logical and semantic frameworks are formal languages used to represent logics, languages and systems. These frameworks provide foundations for the formal specification of systems and programming languages, supporting tool development and reasoning.
 
