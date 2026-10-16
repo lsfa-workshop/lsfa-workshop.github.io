@@ -75,7 +75,7 @@ Will be organized by Sandro Márcio da Silva Preto in Santo André, São Paulo, 
   2026 Portuguese Organizers: Alexandre Madeira and Manuel António Gonçalves Martins <br>
   2026 ISs: Sandra Alves, Diana Costa, Haniel Barbosa, Santiago Escobar
 
-* 2027 Program co-chairs: Cristina Sernardas and Mauricio Ayala-Rincón <br>
+* 2027 Program co-chairs: Cristina Sernadas and Mauricio Ayala-Rincón <br>
   2027 ISs: TBD
   
 ## Publications 
