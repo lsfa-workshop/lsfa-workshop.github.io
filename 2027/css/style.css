@@ -630,6 +630,50 @@ a:focus .speaker{
   display: block;
 }
 
+/* Start each row of cards on the left even when a card is taller than its
+   neighbours (the cards follow the section-title div, hence the offsets) */
+@media (min-width: 768px) and (max-width: 991px) {
+  .row > .col-md-4.col-sm-6:nth-of-type(2n) {
+    clear: left;
+  }
+}
+@media (min-width: 992px) {
+  .row > .col-md-4.col-sm-6:nth-of-type(3n+2) {
+    clear: left;
+  }
+}
+.row > .col-md-4.col-sm-6 ~ p {
+  clear: both;
+}
+
+/* Cards on the same row get the same height (browsers without :has keep the
+   float layout above) */
+@media (min-width: 768px) {
+  .row:has(> .col-md-4.col-sm-6) {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .row:has(> .col-md-4.col-sm-6)::before,
+  .row:has(> .col-md-4.col-sm-6)::after {
+    display: none;
+  }
+  .row:has(> .col-md-4.col-sm-6) > :not(.col-md-4) {
+    flex: 0 0 100%;
+  }
+  .row > .col-md-4.col-sm-6,
+  .row > .col-md-4.col-sm-6 > a,
+  .row > .col-md-4.col-sm-6 .speaker {
+    display: flex;
+    flex-direction: column;
+  }
+  .row > .col-md-4.col-sm-6 > a,
+  .row > .col-md-4.col-sm-6 .speaker,
+  .row > .col-md-4.col-sm-6 .speaker-content,
+  .row > .col-md-4.col-sm-6 .speaker-contentg {
+    flex: 1 1 auto;
+  }
+}
+
 .speaker .speaker-content {
   position: relative;
   padding: 20px;
